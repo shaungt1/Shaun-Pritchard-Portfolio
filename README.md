@@ -48,7 +48,8 @@ Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur w
 ### Each category within the main class category will contian heterogeneous sub categories for particular subjects they realte to.
 
 ## Classes
-_The Classes section gives me a way to publish my course work and highlight my achivments, proofs, problems, and understadning of specific topics. All Proofs are written to spcified guildines and methods that implement contridiction, well ordering and logical proposition principles. All papers, articles, and thessis are written in APA format. All Programs where written with VS Code, PyScripter, Jupyter Notbook, Octave, and other text editors openly aviable.
+
+>The Classes section gives me a way to publish my course work and highlight my achivments, proofs, problems, and understadning of specific topics. All Proofs are written to spcified guildines and methods that implement contridiction, well ordering and logical proposition principles. All papers, articles, and thessis are written in APA format. All Programs where written with VS Code, PyScripter, Jupyter Notbook, Octave, and other text editors openly aviable.
 
  * Ai
  * Algorithms
