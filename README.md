@@ -23,7 +23,7 @@ Format: ![Alt Text](url)
 ### My Personal Business & Web Apps
 
 - Web Reactor (Local Tech company) - https://webreactor.us/
-- Dev Reactor (Online courseware) - https:devreactor.pro
+- Dev Reactor (Online courseware) - https://devreactor.pro
 - DevSkywalker (Portfolio) - coming soon...
 - Beach-Scapes (handmade Beach decor) - https://beach-scapes.com/
 - Drive Guardian (Inventions, IoT) - coming soon...
