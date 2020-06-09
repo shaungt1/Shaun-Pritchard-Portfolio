@@ -79,7 +79,7 @@ Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur w
  * Ideas And Sandbox
 ## Books
 
->Books category highlights th3e many books that helped me on my journey to learning the skills I sought out. I have also written a few of my own books that are non-technical.
+>Books category highlights the many books that helped me on my journey to learning the skills I sought out. I have also written a few of my own books that are non-technical.
 
  * Books I Have Written
  * Content I Have Written
