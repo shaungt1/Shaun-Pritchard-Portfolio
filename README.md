@@ -48,7 +48,7 @@ Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur w
 ### Each category within the main class category will contian heterogeneous sub categories for particular subjects they realte to.
 
 ## Classes
-***The Classes section gives me a way to publish my course work and highlight my achivments, proofs, problems, and understadning of specific topics. All Proofs are written to spcified guildines and methods that implement contridiction, well ordering and logical proposition principles. All papers, articles, and thessis are written in APA format. All Programs where written with VS Code, PyScripter, Jupyter Notbook, Octave, and other text editors openly aviable.
+_The Classes section gives me a way to publish my course work and highlight my achivments, proofs, problems, and understadning of specific topics. All Proofs are written to spcified guildines and methods that implement contridiction, well ordering and logical proposition principles. All papers, articles, and thessis are written in APA format. All Programs where written with VS Code, PyScripter, Jupyter Notbook, Octave, and other text editors openly aviable.
 
  * Ai
  * Algorithms
@@ -69,29 +69,29 @@ Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur w
  * Quantum Computers
  * Software Engineering
 ## Projects
-*These are projects in realtion to the the fields of study above written in a varity of programming languages. Projects are open source and complete to the best of my ability.
+_These are projects in realtion to the the fields of study above written in a varity of programming languages. Projects are open source and complete to the best of my ability.
 
  * Apps & Projects
  * Custom Apps And Projects
  * Api’s
  * Ideas And Sandbox
 ## Books
-*Books category highlights th3e many books that helped me on my journey to learning the skills I sought out. I have also written a few of my own books that are non-technical.
+_Books category highlights th3e many books that helped me on my journey to learning the skills I sought out. I have also written a few of my own books that are non-technical.
 
  * Books I Have Written
  * Content I Have Written
  * Favorite Books
 ## Apps
-*These are mobile and web based app projects I am currently working on or have completed for practiccle purpopses.
+_These are mobile and web based app projects I am currently working on or have completed for practiccle purpopses.
 
  * Mobile Apps And
 ## Entrepreneur & Business
-*This section you can discover more about my entrepreneural and business ventures. 
+_This section you can discover more about my entrepreneural and business ventures. 
 
  * My Business 
  * Professional 
 ## Design
-*I have been designing for years and love creating. these are some of my designs based in multiple technologies.
+_I have been designing for years and love creating. These are some of my designs based in multiple technologies.
 
  * Graphic Design
  * VFX
