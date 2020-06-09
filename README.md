@@ -70,29 +70,34 @@ Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur w
  * Quantum Computers
  * Software Engineering
 ## Projects
-_These are projects in realtion to the the fields of study above written in a varity of programming languages. Projects are open source and complete to the best of my ability.
+
+>These are projects in realtion to the the fields of study above written in a varity of programming languages. Projects are open source and complete to the best of my ability.
 
  * Apps & Projects
  * Custom Apps And Projects
  * Api’s
  * Ideas And Sandbox
 ## Books
-_Books category highlights th3e many books that helped me on my journey to learning the skills I sought out. I have also written a few of my own books that are non-technical.
+
+>Books category highlights th3e many books that helped me on my journey to learning the skills I sought out. I have also written a few of my own books that are non-technical.
 
  * Books I Have Written
  * Content I Have Written
  * Favorite Books
 ## Apps
-_These are mobile and web based app projects I am currently working on or have completed for practiccle purpopses.
+
+>These are mobile and web based app projects I am currently working on or have completed for practiccle purpopses.
 
  * Mobile Apps And
 ## Entrepreneur & Business
-_This section you can discover more about my entrepreneural and business ventures. 
+
+>This section you can discover more about my entrepreneural and business ventures. 
 
  * My Business 
  * Professional 
 ## Design
-_I have been designing for years and love creating. These are some of my designs based in multiple technologies.
+
+>I have been designing for years and love creating. These are some of my designs based in multiple technologies.
 
  * Graphic Design
  * VFX
