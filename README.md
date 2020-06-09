@@ -13,12 +13,21 @@ Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur w
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
-## My Social Channels:
+### My Social Channels:
 
 - Youtube:  https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw/
 - Facebook: https://www.facebook.com/shaunpritchardlive
 - Insagram: https://www.instagram.com/shaun.pritchard1/
 - LinkedIn: https://www.linkedin.com/in/shaunpritchard1/
+
+### My Personal Business & Web Apps
+
+- Web Reactor (Local Tech company) - https://webreactor.us/
+- Dev Reactor (Online courseware) - https:devreactor.pro
+- DevSkywalker (Portfolio) - coming soon...
+- Beach-Scapes (handmade Beach decor) - https://beach-scapes.com/
+- Drive Guardian (Inventions, IoT) - coming soon...
+
 
 # Categories
 ### These are the categories that will encompass my work: within each main category the categories for work, skillsets, and projects reside.
