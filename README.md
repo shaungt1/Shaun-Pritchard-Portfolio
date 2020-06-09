@@ -29,6 +29,16 @@ Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur w
 - Flutter
 - Andriod (Koplin)
 
+### Preferred Database
+
+ - MySql
+ - Casandra
+ - MongoDB
+ - Postgrees
+ - Azure
+ - IndexDB
+ - Couch DB
+ - Pouch DB
 
 ### My Social Channels:
 
