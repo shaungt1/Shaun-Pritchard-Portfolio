@@ -1,7 +1,7 @@
 # Welcome to my portfolio!
 
 ### Developer: Shaun Pritchard
-This is a unique approach that I've not seen anyone else do to this extent. Not only will I be listing projects and developments I have created or worked on. I will be hosting the coursework, classes, proofs, scientific work, and postulates I have taken, worked on, and completed. I hope to show the comprehension and diversity of my skill sets and knowledge base. While openly making my work available for others to engage and interact with. 
+This is a unique approach that I've not seen anyone else do to this extent. Not only will I be listing projects and developments I have created or worked on. I will be hosting the coursework, classes, proofs, scientific work, and postulates I have taken, worked on, and completed. I hope to show the comprehension and diversity of my skill sets and knowledge base. While openly making my work available for others to engage and interact with. I will be using a tree traversal categorization.
 
 *If you are an employer seeking my skill sets please contact me
 [GitHub] shaun@webreactor.com*
@@ -28,12 +28,56 @@ Format: ![Alt Text](url)
 - Beach-Scapes (handmade Beach decor) - https://beach-scapes.com/
 - Drive Guardian (Inventions, IoT) - coming soon...
 
+### Favorite Inspirational Quotes:
+- “We can not solve our problems with the same level of thinking that created them.” – Albert Einstein
+- “A problem well stated is a problem half solved.” – John Dewey
+- “Problems are not stop signs, they are guidelines.” – Robert H. Shuller
+- “All problems become smaller when you confront them instead of dodging them.” – William F. Halsey
+- “Life is not a problem to be solved, but a reality to be experienced.” – Soren Kierkegaard
+- The first principle is that you must not fool yourself and you are the easiest person to fool. – Richard Feynman
 
-# Categories
-### These are the categories that will encompass my work: within each main category the categories for work, skillsets, and projects reside.
+# Main Categories
+### These are the categories that will encompass my work: within each main category the categories for work, skillsets, and projects reside. All of these projects are based in Computer Science, Programming, Data Science, AI, Mathematics, & Quantum Computation. 
 
 * ## Classes
 * ## Projects
 * ## Books
 * ## Apps
 * ## Business
+
+#  Contents Of Each Main Category:
+### Each category within the main class category will contian heterogeneous sub categories for particular subjects they realte to.
+
+## Classes
+ * Ai
+ * Algorithms
+ * Big Data
+ * Circuts
+ * Computer Sciecne
+ * Data Science
+ * Data Structures
+ * Databases
+ * Deep Learning
+ * Eecs
+ * English
+ * Human Uses Of The Environment
+ * Machine Learning
+ * Mathematics
+ * Physics
+ * Programming
+ * Quantum Computers
+ * Software Engineering
+## Projects
+ * Apps & Projects
+ * Custom Apps And Projects
+ * Api’s
+ * Ideas And Sandbox
+## Books
+ * Books I Have Written
+ * Content I Have Written
+ * Favorite Books
+## Apps
+ * Mobile Apps And
+## Entrepreneur & Business
+ * My Business 
+ * Professional 
