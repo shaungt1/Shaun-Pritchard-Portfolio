@@ -13,7 +13,7 @@ Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur w
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
-## My Social and Youtube Channels:
+## My Social Channels:
 
 - Youtube:  https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw/
 - Facebook: https://www.facebook.com/shaunpritchardlive
