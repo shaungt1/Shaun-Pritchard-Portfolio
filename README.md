@@ -45,7 +45,7 @@ Format: ![Alt Text](url)
 * ## Apps
 * ## Business
 
-#  Contents Of Each Main Category:
+#  Contents of Each Main Category:
 ### Each category within the main class category will contian heterogeneous sub categories for particular subjects they realte to.
 
 ## Classes
@@ -58,7 +58,7 @@ Format: ![Alt Text](url)
  * Data Structures
  * Databases
  * Deep Learning
- * Eecs
+ * EECS
  * English
  * Human Uses Of The Environment
  * Machine Learning
@@ -81,3 +81,8 @@ Format: ![Alt Text](url)
 ## Entrepreneur & Business
  * My Business 
  * Professional 
+## Design
+ * Graphic Design
+ * VFX
+ * WebGL
+ * Three.js
