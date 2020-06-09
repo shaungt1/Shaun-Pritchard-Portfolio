@@ -6,7 +6,7 @@ This is a unique approach that I've not seen anyone else do to this extent. Not 
 *If you are an employer seeking my skill sets please contact me
 [GitHub] shaun@webreactor.com*
 
-#About Myself: 
+# About Myself: 
 
 Currently, I'm a student, Inventor, author, and entrepreneur working on finishing my (MCS) master's in data science. I have a bachelor's degree in Computer Science & data analytics. I'm based out of Tampa Florida, have authored 1 book, developed Web, native, and IoT applications. I have helped work on some prestigious developments and internships (Listed in my resume). I have a passion for data, science, math, programming, and physics. Especially, quantum physics and quantum computational mathematics. My goal is to work on fault tolerance systems for quantum reversible circuits. I love to read, play guitar, and surf. 
 
@@ -18,8 +18,8 @@ Format: ![Alt Text](url)
 My Social and Youtube Channels:
 
 
-#Categories
-###These are categories hosted that will encompus my work:
+# Categories
+### These are categories hosted that will encompus my work:
 
 Classes
 Projects
