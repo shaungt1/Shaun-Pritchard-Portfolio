@@ -32,8 +32,8 @@ Format: ![Alt Text](url)
 # Categories
 ### These are the categories that will encompass my work: within each main category the categories for work, skillsets, and projects reside.
 
-* Classes
-* Projects
-* Books
-* Apps
-* Business
+* ## Classes
+* ## Projects
+* ## Books
+* ## Apps
+* ## Business
