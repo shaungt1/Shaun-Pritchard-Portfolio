@@ -15,6 +15,9 @@ Format: ![Alt Text](url)
 
 ## My Social and Youtube Channels:
 
+Youtube: https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw/
+Facebook: https://www.facebook.com/shaunpritchardlive
+Insagram: @shaun.pritchard1
 
 # Categories
 ### These are the categories that will encompass my work: within each main category the categories for work, skillsets, and projects reside.
