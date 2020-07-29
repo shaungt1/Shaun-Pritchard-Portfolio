@@ -2,6 +2,23 @@
 
 ### Developer: Shaun Pritchard
 This is a unique approach that I've not seen anyone else do to this extent. Not only will I be listing projects and developments I have created or worked on. I will be hosting the coursework, classes, proofs, scientific work, and postulates I have taken, worked on, and completed. I hope to show the comprehension and diversity of my skill sets and knowledge base. While openly making my work available for others to engage and interact with. I will be using a tree traversal categorization.
+<hr>
+
+
+### Topics of skillsets shown:
+These are the topics of proficiency utilizing my relevant experience, technical expertise,
+and problem solving skills through academic and autodidactic acomplishments.
+
+- [x] Computer Science
+- [x] Electrical Engineering
+- [x] Data Science
+- [x] Machine Learning
+- [x] Enterprise Architecture
+- [x] Data Visulization
+- [x] Programming
+- [x] Academic Research
+
+<hr>
 
 *If you are an employer or are seeking to utilize my skill sets please contact me at: shaun@webreactor.com*
 
