@@ -13,6 +13,7 @@ and problem solving skills through academic and autodidactic acomplishments.
 - [x] Electrical Engineering
 - [x] Data Science
 - [x] Machine Learning
+- [x] Quantum Computational Science
 - [x] Enterprise Architecture
 - [x] Data Visulization
 - [x] Programming
