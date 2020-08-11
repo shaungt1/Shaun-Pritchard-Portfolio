@@ -1,7 +1,7 @@
 # Welcome to my portfolio!
 
 ### Developer: Shaun Pritchard
-This is a unique approach that I've not seen anyone else do to this extent. Not only will I be listing projects and developments I have created or worked on. I will be hosting the coursework, classes, proofs, scientific work, and postulates I have taken, worked on, and completed. I hope to show the comprehension and diversity of my skill sets and knowledge base. While openly making my work available for others to engage and interact with. I will be using a tree traversal categorization.
+This is a unique approach that I've not seen very many other do; at least to this extent? I will be listing projects and developments I want ti highlight in my portfolio. Also, I will be hosting the academic coursework, classes, proofs, scientific work, and postulates I have taken, worked on, and completed. I hope to show the comprehension and diversity of my skill sets and knowledge base. While openly making my work available for others to engage and interact with. I will be using a tree traversal categorization.
 <hr>
 
 
@@ -81,15 +81,19 @@ Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur w
 - “Life is not a problem to be solved, but a reality to be experienced.” – Soren Kierkegaard
 - The first principle is that you must not fool yourself and you are the easiest person to fool. – Richard Feynman
 
+<hr>
+
 # Main Categories
 ### These are the categories that will encompass my work. Within each main category, the categories for work, skillsets, and projects reside. All of these projects are based in Computer Science, Programming, Data Science, AI, Mathematics, & Quantum Computation and other related skillsets. 
 
 * ## Classes
+* ## Courses
 * ## Projects
 * ## Books
 * ## Apps
 * ## Business
 * ## Design
+
 
 #  Contents of Each Main Category:
 ### Each category within the main class category will contian heterogeneous sub categories for particular subjects they realte to.
@@ -116,6 +120,20 @@ Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur w
  * Programming
  * Quantum Computers
  * Software Engineering
+ 
+ ## Courses
+
+>The section will introduce all the tutorials, and courses I have built and avialble online. Courses are both contextual and video formats.
+
+ * SEO
+ * Programming For The Web
+ * Big Data
+ * Software Engineering
+ * Enterprise Architecture  
+ * Scripting
+ * Business
+ * Business Law & US Constition 
+ 
 ## Projects
 
 >These are projects in realtion to the the fields of study above written in a varity of programming languages. Projects are open source and complete to the best of my ability.
