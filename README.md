@@ -4,6 +4,14 @@
 This is a unique approach that I've not seen very many other do; at least to this extent? I will be listing projects and developments I want ti highlight in my portfolio. Also, I will be hosting the academic coursework, classes, proofs, scientific work, and postulates I have taken, worked on, and completed. I hope to show the comprehension and diversity of my skill sets and knowledge base. While openly making my work available for others to engage and interact with. I will be using a tree traversal categorization.
 <hr>
 
+###### 📢 Conenct with me here!
+
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Shaun Pritchard | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt=" Shaun Pritchard | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Shaun Pritchard | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Shaun Pritchard | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Shaun Pritchard | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 ### Topics of skillsets shown:
 These are the topics of proficiency utilizing my relevant experience, technical expertise,
@@ -21,65 +29,10 @@ and problem solving skills through academic and autodidactic acomplishments.
 
 <hr>
 
-*If you are an employer or are seeking to utilize my skill sets please contact me at: shaun@webreactor.com*
+*If you are an employer or are seeking to utilize my skill sets please contact me at: shaun@webreactor.com* 
 
-# About Myself: 
+###### [Learn more about about me here](https://github.com/shaungt1)
 
-Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur working toward my (MCS) Masters in Data Science. After, which I will pursue my Ph.D. in quantum computational mathematics. I have a bachelor's degree in Computer Science & Data Analytics. I'm based in Tampa Florida, I have authored 2 books, developed Web, native, and IoT applications. I have helped work on some prestigious developments and internships (Listed in my resume). I have a passion for data, science, math, programming, and physics. Especially; quantum computational science, control theory, and convex optimization algorithms. My goal is to work on fault tolerance systems for quantum reversible circuits for IBM or Microsoft or on optimization algorithms for Space X. I love Space X and the innovations constantly being employed. I also am very interested in joining teams such as IBM and Microsoft who are at the forefront of quantum supremacy. I hope to be apart of their teams or other companies that employ diverse concepts as such, allowing me to utilize my skillsets and grow as a computer scientist. I also love to read, play guitar, and surf. I like to create content and teach others the things I have learned. I like to help people and help simplify the complexity of abstract topics to make them easy to understand.
-
-### Preferred Programming Languages 
-
-- Web (Html CSS)
-- Javascript
-- Python
-- Dart
-- C++
-- JAVA
-
-### Preferred Frameworks
-
-- Angular 5-9
-- React
-- Django
-- Flask
-- Tensorflow
-- Keras
-- Flutter
-- Andriod (Koplin)
-
-### Preferred Database
-
- - MySql
- - Casandra
- - MongoDB
- - Postgrees
- - Azure
- - IndexDB
- - Couch DB
- - Pouch DB
-
-### My Social Channels:
-
-- Youtube:  https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw/
-- Facebook: https://www.facebook.com/shaunpritchardlive
-- Insagram: https://www.instagram.com/shaun.pritchard1/
-- LinkedIn: https://www.linkedin.com/in/shaunpritchard1/
-
-### My Personal Business & Web Apps
-
-- Web Reactor (Local Tech company) - https://webreactor.us/
-- Dev Reactor (Online courseware) - https://devreactor.pro
-- DevSkywalker (Portfolio) - coming soon...
-- Beach-Scapes (handmade Beach decor) - https://beach-scapes.com/
-- Drive Guardian (Inventions, IoT) - coming soon...
-
-### Favorite Inspirational Quotes:
-- “We can not solve our problems with the same level of thinking that created them.” – Albert Einstein
-- “A problem well stated is a problem half solved.” – John Dewey
-- “Problems are not stop signs, they are guidelines.” – Robert H. Shuller
-- “All problems become smaller when you confront them instead of dodging them.” – William F. Halsey
-- “Life is not a problem to be solved, but a reality to be experienced.” – Soren Kierkegaard
-- The first principle is that you must not fool yourself and you are the easiest person to fool. – Richard Feynman
 
 <hr>
 
@@ -93,7 +46,12 @@ Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur w
 * ## Apps
 * ## Business
 * ## Design
+<hr>
 
+## Portfolio Map of Organizational Workflow
+![Map of portfolio shaun pritchard](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/master/Protfolio-imgs/Shaun%20Pritchard%20Portfolio%20Github%20Map.png?raw=true)
+
+<hr
 
 #  Contents of Each Main Category:
 ### Each category within the main class category will contian heterogeneous sub categories for particular subjects they realte to.
@@ -102,10 +60,11 @@ Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur w
 
 >The Classes section gives me a way to publish my course work and highlight my achivments, proofs, problems, and understadning of specific topics. All Proofs are written to spcified guildines and methods that implement contridiction, well ordering and logical proposition principles. All papers, articles, and thessis are written in APA format. All Programs where written with VS Code, PyScripter, Jupyter Notbook, Octave, and other text editors openly aviable.
 
- * Ai
+ * AI (artificial Intelligence)
  * Algorithms
  * Big Data
  * Circuts
+ * CV (Computer Vision)
  * Computer Sciecne
  * Data Science
  * Data Structures
@@ -174,9 +133,12 @@ Currently, I'm a student, Inventor, author, disabled veteran, and entrepreneur w
  
  ![GitHub Logo]( https://www.researchgate.net/profile/Andreas_Ketterer/publication/316828699/figure/fig3/AS:669404337565697@1536609839396/color-online-Bloch-sphere-representation-of-the-Bloch-vector-v-for-qubits-d-2.png)
 
-<iframe
-  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
-  style="width:100%; height:300px;"
-></iframe>
 
+<!-- dictonaries-->
+[website]: https://webreactor.us
+[twitter]: https://twitter.com/SimpleStupid0
+[youtube]: https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw/
+[instagram]: https://www.instagram.com/shaun.pritchard1/
+[linkedin]: https://www.linkedin.com/in/shaunpritchard1/
+[facebook]: https://www.facebook.com/shaunpritchardlive
 
