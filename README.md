@@ -4,6 +4,8 @@
 This is a unique approach that I've not seen very many other do; at least to this extent? I will be listing projects and developments I want ti highlight in my portfolio. Also, I will be hosting the academic coursework, classes, proofs, scientific work, and postulates I have taken, worked on, and completed. I hope to show the comprehension and diversity of my skill sets and knowledge base. While openly making my work available for others to engage and interact with. I will be using a tree traversal categorization.
 <hr>
 
+
+
 ###### 📢 Conenct with me here!
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -12,6 +14,10 @@ This is a unique approach that I've not seen very many other do; at least to thi
 [<img align="left" alt="Shaun Pritchard | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shaun Pritchard | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Shaun Pritchard | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+
+<br />
+
 
 ### Topics of skillsets shown:
 These are the topics of proficiency utilizing my relevant experience, technical expertise,
