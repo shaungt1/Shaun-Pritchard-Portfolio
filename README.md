@@ -45,13 +45,13 @@ and problem solving skills through academic and autodidactic acomplishments.
 # Main Categories
 ### These are the categories that will encompass my work. Within each main category, the categories for work, skillsets, and projects reside. All of these projects are based in Computer Science, Programming, Data Science, AI, Mathematics, & Quantum Computation and other related skillsets. 
 
-* ## Classes
-* ## Courses
-* ## Projects
-* ## Books
-* ## Apps
-* ## Business
-* ## Design
+* ## [Classes](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/classes)
+* ## [Courses](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/courses)
+* ## [Projects](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/projects)
+* ## [Books](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/books)
+* ## [Apps](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/apps)
+* ## [Entrepreneur & Business](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/business)
+* ## [Design & Production](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/designs)
 <hr>
 
 ## Portfolio Map of Organizational Workflow
