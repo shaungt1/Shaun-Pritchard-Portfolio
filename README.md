@@ -170,8 +170,9 @@ and problem solving skills through academic and autodidactic acomplishments.
  * Art Work
  * Invents
  
+ ---
  
- 
+ ### Do you know what this is? I will do an interview for free if you kow, without using Google! [Email me the answer here!](shaun@webreactor.us) Cheers!
  
  ![GitHub Logo]( https://www.researchgate.net/profile/Andreas_Ketterer/publication/316828699/figure/fig3/AS:669404337565697@1536609839396/color-online-Bloch-sphere-representation-of-the-Bloch-vector-v-for-qubits-d-2.png)
 
