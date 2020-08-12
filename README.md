@@ -1,6 +1,7 @@
 # Welcome to my portfolio!
 
 
+
 <img align="left" alt="Shaun Pritchard Computer Scientist" width="80px" src="https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/master/Protfolio-imgs/ShaunP-bw-150.png?raw=true" />
 
 
