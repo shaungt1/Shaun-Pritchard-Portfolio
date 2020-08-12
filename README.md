@@ -1,7 +1,7 @@
 # Welcome to my portfolio!
 
 ### Developer: Shaun Pritchard
-This is a unique approach that I've not seen very many other do; at least to this extent? I will be listing projects and developments I want ti highlight in my portfolio. Also, I will be hosting the academic coursework, classes, proofs, scientific work, and postulates I have taken, worked on, and completed. I hope to show the comprehension and diversity of my skill sets and knowledge base. While openly making my work available for others to engage and interact with. I will be using a tree traversal categorization.
+TThis portfolio is a unique approach that I've not seen very many others do, at least to this extent? I will be listing project developments and much more.  Also, I will be hosting the academic coursework, classes, proofs, scientific work, and postulates I have taken, worked on, and completed at my university.  I will also host my course work takes from virtual correspondence courses online. I hope to show the comprehension and diversity of my skill sets and knowledge base. While openly making my work available for others to engage and interact. I will be using a tree traversal categorization.
 <hr>
 
 
