@@ -1,4 +1,4 @@
-### [**Introduction to Enterprise Architecture and Cloud Services**](https://webreactor.us)
+### [**Enterprise Architecture and Cloud Services**](https://webreactor.us)
 
 This is an overview of the course work I completed for the given topic. Each module contains specific tasks for both a course project and an assignment.
 
