@@ -1,0 +1,37 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>http://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>3564514_244573852</transaction>
+  <expiration>2020-07-21T12:43:17-07:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000003564514</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">The Enterprise Cloud</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Bond, James; </dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">O'Reilly Media, Incorporated</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">3564514</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000003564514</resource>
+      <permissions>
+        <display>
+          <duration>604799</duration>
+        </display>
+        <excerpt>
+          <duration>604799</duration>
+          <count initial="80" max="80" incrementInterval="7559"/>
+        </excerpt>
+        <print>
+          <duration>604799</duration>
+          <count initial="160" max="160" incrementInterval="3779"/>
+        </print>
+        <play>
+          <duration>604799</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>IiIa9GjG6IgWJqx23IV2IFQjoUs=</hmac>
+</fulfillmentToken>
