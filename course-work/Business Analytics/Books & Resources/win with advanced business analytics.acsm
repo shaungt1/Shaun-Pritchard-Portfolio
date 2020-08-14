@@ -1,0 +1,37 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:9cb786e8-586a-4950-8901-fff8d2ee6025</distributor>
+  <operatorURL>http://acs.ebookcentral.proquest.com/fulfillment</operatorURL>
+  <transaction>918223_226744759</transaction>
+  <expiration>2020-04-24T13:24:46-07:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:00000000-0000-0000-0000-000000918223</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Win with Advanced Business Analytics</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Isson, Jean-Paul; Harriott, Jesse; </dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">John Wiley &amp; Sons, Incorporated</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">918223</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:00000000-0000-0000-0000-000000918223</resource>
+      <permissions>
+        <display>
+          <duration>604799</duration>
+        </display>
+        <excerpt>
+          <duration>604799</duration>
+          <count initial="21" max="21" incrementInterval="28799"/>
+        </excerpt>
+        <print>
+          <duration>604799</duration>
+          <count initial="84" max="84" incrementInterval="7199"/>
+        </print>
+        <play>
+          <duration>604799</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>v/+YnatPis3HjMq7j9T0Dqb6uBM=</hmac>
+</fulfillmentToken>
