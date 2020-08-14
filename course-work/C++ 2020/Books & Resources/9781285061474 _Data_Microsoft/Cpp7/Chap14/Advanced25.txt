@@ -1,0 +1,5 @@
+Watch#25#40
+Ring#55#99.99
+Bracelet#60#20
+Earrings#65#17.85
+Pins#20#53.5
