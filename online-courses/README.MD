@@ -1,11 +1,12 @@
 
+
 # Welcome to the Courses Section
 
-> In this section I will outline spscific courses and learning materials I have created or helped with the creation of. These courses are all online and some courses incuded applications and tools I specifically built.
+> In this section I will outline specific courses and learning materials I have created or helped with the creation of. These courses are all online and some courses includes applications and tools I specifically built.
 
 [Dev Reactor Pro Online](https://devreactor.pro)
 
-The section will introduce all the tutorials, and courses I have built and avialble online. Courses are both contextual and video formats.
+The section will introduce all the tutorials, and courses I have built and available online. Courses are both contextual and video formats.
 
 - SEO
 - Programming For The Web
@@ -14,7 +15,7 @@ The section will introduce all the tutorials, and courses I have built and avial
 - Enterprise Architecture
 - Scripting
 - Business
-- Business Law & US Constition
+- Business Law & US Constitution
 
 ---
 
@@ -36,3 +37,17 @@ The section will introduce all the tutorials, and courses I have built and avial
 [instagram]: https://www.instagram.com/shaun.pritchard1/
 [linkedin]: https://www.linkedin.com/in/shaunpritchard1/
 [facebook]: https://www.facebook.com/shaunpritchardlive
+
+
+
+
+
+
+
+
+
+
+
+
+
+

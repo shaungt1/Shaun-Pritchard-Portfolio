@@ -1,30 +1,34 @@
-# Welcome to the Design Section
+# Welcome to the Class (Course-Work) Section
 
->  In this section I'll be hosting my graphic, web, and video design projects, VFX, animations, Code based graphics and physics engines (Three.js, Animie.js, etc..) and other artwork that I have designed, built, or have drawn over the years. I started out as a graphic designer what's an associate's degree from Tampa Technical Institute. I have helped created popular brand logos for many businesses including Enterprise companies. Being creative is just something I love to do and I'd like to highlight my abilities here in my portfolio.
+> The class section is a collective of my upper level under grad and grad work. I have included files, scripts, app, proofs, abstracts, and much more for employers and business partners or investors to review. Also, just to show my abilities through academia. Each folder will include sub-folders pertaining to the academic works I have completed.
 
-## Design
+## Classes
 
-> I have been designing for years and love creating. These are some of my designs based in multiple technologies.
+>The Classes section gives me a way to publish my course work and highlight my achievements, proofs, problems, and understanding of specific topics. All Proofs are written to specified guild lines and methods that implement contridiction, well ordering and logical proposition principles. All papers, articles, and thesis are written in APA format. All Programs where written with VS Code, PyScripter, Jupyter Notebook, Octave, and other text editors openly available.
 
- * Graphic Design
- * Video Production & Design
- * VFX
- * WebGL
- * Three.js
- * Adobe PS
- * Adobe Premuire
- * Adobe After Effets
- * Physics engines
- * Web design
- * Custom Design
- * Art Work
- * Invents
-
-
----
-
-
-###### 📢 Conenct with me here!
+ * AI (artificial Intelligence)
+ * Algorithms
+ * Big Data
+ * Circuits
+ * CV (Computer Vision)
+ * Computer Science
+ * Data Science
+ * Data Structures
+ * Databases
+ * Deep Learning
+ * EECS
+ * English
+ * Human Uses Of The Environment
+ * Machine Learning
+ * Mathematics
+ * Physics
+ * Programming
+ * Quantum Computers
+ * Software Engineering
+ 
+ ---
+ 
+ ###### 📢 Conenct with me here!
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Shaun Pritchard | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
