@@ -1,0 +1,86 @@
+/*Create INSTRUCTOR table and qeuries*/
+CREATE TABLE [dbo].[INSTRUCTOR](
+ [InstructorID] [int] NULL,
+ [FirstName] [varchar](50) NULL,
+ [LastName] [varchar](50) NULL,
+ [Telephone] [varchar](50) NULL,
+ [JobDescription] [varchar](50) NULL,
+ [Email] [varchar](50) NULL) ON [PRIMARY]
+GO
+select* from dbo.INSTRUCTOR
+drop table dbo.INSTRUCTOR
+
+
+/*Create COURSES table and qeuries*/
+CREATE TABLE [dbo].[COURSES](
+ [CourseID] [int] NULL,
+ [InstructorID] [int] NULL,
+ [CourseName] [varchar](50) NULL,
+ [CourseVenue] [varchar](50) NULL) ON [PRIMARY]
+GO
+select*
+from dbo.COURSES
+drop table dbo.COURSES
+
+INSERT INTO dbo.INSTRUCTOR(InstructorID, FirstName, LastName, Telephone, JobDescription, Email)
+VALUES (1, 'Dean', 'Abbott','813-999-1111', 'Data Scientist', 'dabbott@gmail.com')
+
+INSERT INTO dbo.INSTRUCTOR(InstructorID, FirstName, LastName, Telephone,JobDescription, Email)
+VALUES (2, 'Sergy', 'Brin','813-999-2222', 'Computer Scientist', 'sbrin@gmail.com')
+
+INSERT INTO dbo.INSTRUCTOR(InstructorID, FirstName, LastName, Telephone,JobDescription, Email)
+VALUES (3, 'Richard', ' Feynman','813-999-3333', 'Qauntum Scientist', 'rfeynman@gmail.com')
+
+INSERT INTO dbo.COURSES(CourseID, InstructorID, CourseName, CourseVenue)
+VALUES (1,1, 'Quantum Computer Science', 'MIT')
+
+INSERT INTO dbo.COURSES(CourseID, InstructorID, CourseName, CourseVenue)
+VALUES (2,2, 'Computer Science', 'Cal Tech')
+
+INSERT INTO dbo.COURSES(CourseID, InstructorID, CourseName, CourseVenue)
+VALUES (3,3, 'Data Science', 'Cal Tech')
+
+
+/*Join table aliases  with LEFT JOIN*/
+SELECT i.InstructorID AS 'INSTRUCTOR_ID',
+i.FirstName + ' '  + i.LastName AS 'FULL_NAME',
+i.Telephone AS 'TELEPHONE',
+i.JobDescription AS 'JOB_DESCRIPTION',
+i.Email AS 'EMAIL',
+c.CourseID AS 'COURSE_ID',
+c.InstructorID AS 'INSTRUCTOR_ID',
+c.CourseName AS 'COURSE',
+c.CourseVenue AS 'COURSE_VENUE'
+
+FROM dbo.INSTRUCTOR i LEFT JOIN dbo.COURSES c ON
+i.InstructorID = c.InstructorID
+WHERE c.InstructorID = 3 
+
+
+/*Join table aliases  with INNER JOIN*/
+SELECT i.InstructorID AS 'INSTRUCTOR_ID',
+i.FirstName + ' '  + i.LastName AS 'FULL_NAME',
+i.Telephone AS 'TELEPHONE',
+i.JobDescription AS 'JOB_DESCRIPTION',
+i.Email AS 'EMAIL',
+c.CourseID AS 'COURSE_ID',
+c.InstructorID AS 'INSTRUCTOR_ID',
+c.CourseName AS 'COURSE',
+c.CourseVenue AS 'COURSE_VENUE'
+FROM
+dbo.COURSES c INNER JOIN dbo.INSTRUCTOR i
+    ON c.InstructorID = i.InstructorID
+ORDER BY
+    CourseName DESC;
+
+
+
+/* Code for ADDRESS AND PERSON*/
+SELECT p.PersonID AS 'PERSON_ID', p.FirstName + ' ' + p.MiddleName + ' ' + p.LastName AS 'FULL_NAME',
+p.Telephone AS 'TELEPHONE', p.Email AS 'EMAIL', a.Address1 AS 'ADDRESS1', a.City AS 'CITY', 
+a.State AS 'STATE', a.Zipcode AS 'ZIPCODE'
+FROM dbo.PERSON p LEFT JOIN dbo.ADDRESS a ON
+p.PersonID = a.PersonID
+WHERE p.PersonID = 1
+
+SELECT i.InstructorID AS 'INSTRUCTOR_ID',

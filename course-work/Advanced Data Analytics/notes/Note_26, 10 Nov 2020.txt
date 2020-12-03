@@ -1,0 +1,50 @@
+Note_26, 10 Nov 2020
+-------------------
+As a user who is just implementing data across network typically we we want to improve SQL query performance with different techniques in writing the queries themselves, allocating exaction of data, and different optimization methods. I do believe they even have query Optimizer programs that we could run as well that do pre analysis of logical operator trees outputting to the physical operator trees in the query execution engine. 
+
+Essentially, we got to be conscious of the data that were working with. In regards to the size the storage and data that users are working with. Resources are something that needs to be thought of all the time becuase each query can cost alot of money and time hence why we need optimization.
+
+
+SQL query optimization techniques: 
+defining and understanding the business requirements.
+Reducing table sizes. 
+Understand the data and the type and how queries are being performed to retrieve the data before making any decision to create an index. 
+Revisiting a checking schema definitions and knowing the system being used.
+Avoiding multiple joins in a single query. 
+Making joints lets complicated. 
+Avoiding using joins that increase the row count substantially. 
+Trying to avoid combining multiple rows to produce a result.
+Lemonade and curses from the query 
+Rewrite queries to remove sub-query in a separate instance 
+Using indexes. 
+Drop indexes that aren't being used.
+Order positions of columns in an index. 
+
+
+Here are a few more. Optimization techniques to use that I got from SiSense. 
+
+Using SELECT instead of SELECT* (to target fields instead the entire database) 
+
+Efficient:
+SELECT FirstName, LastName, Address, City, State, Zip
+FROM Customers 
+
+Avoid SELECT DISTINCT (groups all fields together we need to select fields we want to work with)
+
+Efficient and accurate:
+SELECT FirstName, LastName, Address, City, State, Zip
+FROM Customers 
+
+Create joins with INNER JOIN (not WHERE) 
+Use WHERE instead of HAVING to define filters 
+Use wildcards at the end of a phrase only 
+Use LIMIT to sample query results 
+Run your query during off-peak hours 
+
+
+Scents that I think the best optimizations can come from just being conscious of the resources and trying to minimize using those resources while getting the best results.
+
+Resource: 
+https://www.sisense.com/blog/8-ways-fine-tune-sql-queries-production-databases/
+
+Speechnotes :) https://speechnotes.co
