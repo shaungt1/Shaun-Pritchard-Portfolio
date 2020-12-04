@@ -14,7 +14,7 @@ Behavioral Research
 
 ![](RackMultipart20201109-4-mq5z9q_html_83802eec103bcd37.jpg)
 
-Behavioral research relies on understanding and describing overt behavior and the relations of stimuli on that behavior (external processes). What can someone do to make you change your behavior? We see examples of this every day in so many ways - advertising, product placement in stores, e-mail reminders of the &quot;lonely shopping cart&quot; you started, and even in things like restroom behavior (are you more likely to wash your hands if there is someone in the bathroom with you?) The main idea behind behavioral research is studying how something changes behavior.
+Behavioral research relies on understanding and describing overt behavior and the relations of stimuli on that behaviour (external processes). What can someone do to make you change your behavior? We see examples of this every day in so many ways - advertising, product placement in stores, e-mail reminders of the &quot;lonely shopping cart&quot; you started, and even in things like restroom behavior (are you more likely to wash your hands if there is someone in the bathroom with you?) The main idea behind behavioral research is studying how something changes behavior.
 
 **Module 01 - Theories and Social Media**
 
