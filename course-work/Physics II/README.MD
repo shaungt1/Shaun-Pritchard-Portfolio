@@ -11,7 +11,7 @@ This is a repo for all the physics work , thesis, abstracts, and course work I d
 
 ## **Course Overview:**
 
-## **Module 01 - In the Beginning**
+## **Module 01 - Recap of Genral Physics**
 
 - Patterns in Physics
 - Physics: When and Why (Video)
@@ -30,7 +30,7 @@ This is a repo for all the physics work , thesis, abstracts, and course work I d
 - Changing Perceptions of the World
 - Changing Perceptions (Video)
 
-## **Module 02 Written Assignment - Using the Scientific Method in Your Life**
+## **Module 02 Written Assignment - Applied Scientific Method**
 
 - Additional Time for Study, Research, and Reflection: 1 hour
 - Module 02 Discussion - Peer Review of Scientific Method Observations
@@ -61,11 +61,12 @@ Total Estimated Time: 22 hours
 
 Total Estimated Time: 20 hours, 45 minute
 
-## **Module 04 - All Things Relative**
+## **Module 04 - Theory of Relativity and Special Relativity**
 
 - Einstein&#39;s Theory of Relativity
 - Relativity and the Nature of Space and Time (Video)
 - The Impact of Physics
+- Theory of Special Relativity
 -
 - Physics and the iPod (Video)
 - Module 04 Discussion - Personal Experience with Theory of Relativity
@@ -78,7 +79,7 @@ Total Estimated Time: 20 hours, 45 minute
 
 Total Estimated Time: 18 hours, 50 minutes
 
-## **Module 05 - Laser Brain**
+## **Module 05 - Intro to Quantum Mechanics**
 
 Reading -
 
@@ -97,7 +98,7 @@ Reading -
 
 Total Estimated Time: 17 hours, 55 minutes
 
-## **Module 06 - &quot;What, Me Worry?&quot;**
+## **Module 06 - Atomic Physics & Models**
 
 - The Atomic Nucleus and Radiation
 - The Atomic Nucleus and Radiation, Nuclear Weapons (Video)

@@ -1,4 +1,7 @@
 # Data Elements QMB4000
+This is my personal repositry for record and use of academic work I have completleted and continue to follow. All resources are for personal use only.
+
+> If you would like a copy of the data sets used in these projects please contact me I am happy to share. Keep in mind these are for academic purposees only!
 
 This course reviews the concepts, standards, and functions used to identify data elements necessary for an efficient data preparation process. Topics will include fundamental database concepts in analytics. This course describes the data requirements identification process as it relates to solving business problems with a focus on real-time analytics and prepares students for the functions of the data dictionary as it relates to the data preparation process.
 
