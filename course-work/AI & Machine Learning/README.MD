@@ -12,6 +12,12 @@ If you would like to download codesets and need practice data sets please contac
 
 - Email : [shaun@devskywalker.com](mailto:shaun@devskywalker.com)
 
+Tools and programming Used:
+- Python
+- R
+- Data Set
+- Analysis Tools
+
 **Topics:**
 
 AI(artificial Intelligence) &amp; Machine learning subjects I have learned and am proficient in:
