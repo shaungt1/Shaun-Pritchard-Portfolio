@@ -1,0 +1,29 @@
+Note_18, 15 Dec 2020
+-------------------
+Build a deck and a final project draft: 
+
+Determine average delayed arrival flight time by using a smaller subset of the data provided and if that subset is as accurate.This average would be based on each airport location. 
+
+which origin and destination airports have the longest delayed flight times on average. 
+
+Lastly they would like to know the average delay in departure time per airport by starting destination. 
+
+The CEO is asking for visualizations in a slide deck 
+
+CEO does not have a data dictionary, so they are asking that you use your best judgement in providing the answers with brief descriptions on why you picked your methodologies. The CEO also mentioned that the data is being presented by year, so be cautious in your subset mixing years would not be accurate. 
+
+Deliverables
+
+***Observe the data. Do you notice any trends (is it broken out by year?, by airport?, did you check for missing values?)? 
+
+***Compute trend analysis on the data set for each airport. What are the outliers? 
+
+Create sample of the data. Complete the same trend analysis. Is it statistically similar? (All questions are italicized in the module description, should have multiple analyses). 
+
+Design visuals that answer the questions. 
+
+Describe how you analyzed the data, what sampling techniques you used, and the observations you found. What do you think the columns mean since no data dictionary exist? 
+
+Final Product: The CEO is looking for a 3-5 page write up for this analysis. You should include important screenshots of your code, the code outputs, and explanations of what the outputs mean. It is also important to include your visuals and answer the CEO’s questions.
+
+Speechnotes :) https://speechnotes.co

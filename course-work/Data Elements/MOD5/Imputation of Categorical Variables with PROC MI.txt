@@ -1,0 +1,48 @@
+Note_5, 8 Dec 2020
+-------------------
+Dummy variables can be incorporated into any dataset depending on the model being developed and the over goal the data should provide. 
+
+We can use different preprocessing methods for both dependent variables and independent variables. Essentially, there are several different methods we can use to categorize data and assigned them numeric values or to impute the what specific value so that way we can have a clean pre-process dataset. 
+
+When working with categorical data the 2 most common methods are to ether delete the feature with missing values or to fill the features with the mean average recurring string using imputation. This can unfortunately skew the data set depending on its purpose. 
+
+When dealing with clean categorical data we can impute it with implementations such as one hot encoding methods.  it is preferable to work with the available information rather than introduce some sort of bias into the data set.
+
+Let us imagine we have a column full of State variables and there's three states Florida California and New York. 
+
+Being that this is categorical data or trying to thrive contest with numerical data we need to use one hot encoding to assign numerical binary values to the features. 
+
+
+Column 1
+_________
+Florida 
+california 
+New York 
+
+
+Encoding this data with binary values would turn the categorical data into numerical data we can use to calculate and implement statistics on. 
+
+
+Column 1 encoded representation 
+_________
+Florida      = 001 
+california   = 010
+New York     = 100
+
+
+These data methods are usable but can lead to bias in the data set as well. These 4 methods of imputation below are will provide better results and better approaches to get more accurate results back from the data model in question.
+
+1. Listwise deletion
+
+2. Imputation of the continuous variable without rounding (just leave off step 3).
+
+3. Logistic Regression imputation
+
+4. Discriminant Analysis imputation 
+
+
+Resources: 
+Imputation of Categorical Variables with PROC MI(n.d),(Paper 113-30),
+Paul D. Allison, University of Pennsylvania, Philadelphia, PA  https://support.sas.com/resources/papers/proceedings/proceedings/sugi30/113-30.pdf
+
+Speechnotes :) https://speechnotes.co
