@@ -1,8 +1,9 @@
 ### Artificial Intelligence &amp; Machine Learning
 
-Shaun Pritchard
-# 1
- Rassmussen College Masters of Data Science, MIT, EDX, [Kirill Eremenko](https://www.udemy.com/user/kirilleremenko/) - December , 2020
+Shaun Pritchard 
+
+Educational sources:
+Rassmussen College Masters of Data Science, MIT, EDX, [Kirill Eremenko](https://www.udemy.com/user/kirilleremenko/) - December , 2020
 
 **Machine Learning Overview**
 
