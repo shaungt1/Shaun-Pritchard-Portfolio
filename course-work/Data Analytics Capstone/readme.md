@@ -36,15 +36,6 @@ When you reach the &quot;Tableau For Students&quot; section, select the &quot;Ge
 
 **Note:** To register for Tableau, you will be asked to provide proof of enrollment at Rasmussen College by submitting an unofficial transcript. To obtain your unofficial transcript follow these steps:
 
-- Log in to their Rasmussen Student Portal.
--
- Then go to the Student Account Center and click on My Program Progress to find the unofficial transcript. Note: There is no charge for the unofficial transcript (only an official one).
--
- Submit the unofficial transcript to the Tableau student signup site when you download their software.
-
- You should receive confirmation of your Tableau registration within 2-3 days of submitting your unofficial transcript. **Contact your instructor if you do not hear back from Tableau and/or run into any complications completing the setup of the software.**
-
-![](RackMultipart20210304-4-1ymhxub_html_237499165a11f2b9.gif)
 
  **Course Schedule**
 
