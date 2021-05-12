@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20202.20.0415.1946                               -->
+<workbook source-build='2020.2.0 (20202.20.0415.1946)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='Module_01_Dataset' inline='true' name='federated.0rvgmdb03cjfjo1bk4wn10rsorhh' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Module_01_Dataset' name='textscan.1v8yn7f117zdfy1at7m7o1jqlfis'>
+            <connection class='textscan' directory='D:/SHAUNS SCHOOL 🚸/Applied Business Intelligence/MOD1/dataSet' filename='Module_01_Dataset.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1v8yn7f117zdfy1at7m7o1jqlfis' name='Module_01_Dataset.csv' table='[Module_01_Dataset#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Entity' ordinal='0' />
+            <column datatype='real' name='Compensation' ordinal='1' />
+            <column datatype='real' name='Expenses' ordinal='2' />
+            <column datatype='string' name='entity_type' ordinal='3' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.1v8yn7f117zdfy1at7m7o1jqlfis' name='Module_01_Dataset.csv' table='[Module_01_Dataset#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Entity' ordinal='0' />
+            <column datatype='real' name='Compensation' ordinal='1' />
+            <column datatype='real' name='Expenses' ordinal='2' />
+            <column datatype='string' name='entity_type' ordinal='3' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Module_01_Dataset.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='record-delimiter'>&quot;\\r&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Entity</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Entity]</local-name>
+            <parent-name>[Module_01_Dataset.csv]</parent-name>
+            <remote-alias>Entity</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Module_01_Dataset.csv_5A19E942FC6D4D31898069B5FD43076D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Compensation</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Compensation]</local-name>
+            <parent-name>[Module_01_Dataset.csv]</parent-name>
+            <remote-alias>Compensation</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Module_01_Dataset.csv_5A19E942FC6D4D31898069B5FD43076D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Expenses</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Expenses]</local-name>
+            <parent-name>[Module_01_Dataset.csv]</parent-name>
+            <remote-alias>Expenses</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Module_01_Dataset.csv_5A19E942FC6D4D31898069B5FD43076D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>entity_type</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[entity_type]</local-name>
+            <parent-name>[Module_01_Dataset.csv]</parent-name>
+            <remote-alias>entity_type</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Module_01_Dataset.csv_5A19E942FC6D4D31898069B5FD43076D]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Calculation1' datatype='real' name='[Calculation_1013309947807223808]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='[Compensation]+[Expenses]' />
+      </column>
+      <_.fcp.ObjectModelTableType.true...column caption='Module_01_Dataset.csv' datatype='table' name='[__tableau_internal_object_id__].[Module_01_Dataset.csv_5A19E942FC6D4D31898069B5FD43076D]' role='measure' type='quantitative' />
+      <column caption='Entity Type' datatype='string' name='[entity_type]' role='dimension' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='Module_01_Dataset.csv' id='Module_01_Dataset.csv_5A19E942FC6D4D31898069B5FD43076D'>
+            <properties context=''>
+              <relation connection='textscan.1v8yn7f117zdfy1at7m7o1jqlfis' name='Module_01_Dataset.csv' table='[Module_01_Dataset#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Entity' ordinal='0' />
+                  <column datatype='real' name='Compensation' ordinal='1' />
+                  <column datatype='real' name='Expenses' ordinal='2' />
+                  <column datatype='string' name='entity_type' ordinal='3' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true'> SUM OF TOTAL-LOBBYING BY TYPE OF GOVERNMENT.</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Module_01_Dataset' name='federated.0rvgmdb03cjfjo1bk4wn10rsorhh' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0rvgmdb03cjfjo1bk4wn10rsorhh'>
+            <column caption='Calculation1' datatype='real' name='[Calculation_1013309947807223808]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='[Compensation]+[Expenses]' />
+            </column>
+            <column datatype='real' name='[Compensation]' role='measure' type='quantitative' />
+            <column datatype='real' name='[Expenses]' role='measure' type='quantitative' />
+            <column caption='Entity Type' datatype='string' name='[entity_type]' role='dimension' type='nominal' />
+            <column-instance column='[entity_type]' derivation='None' name='[none:entity_type:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_1013309947807223808]' derivation='Sum' name='[sum:Calculation_1013309947807223808:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Compensation]' derivation='Sum' name='[sum:Compensation:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Expenses]' derivation='Sum' name='[sum:Expenses:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0rvgmdb03cjfjo1bk4wn10rsorhh].[none:entity_type:nk]' kind='hide'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-manual-selection='true' user:ui-manual-selection-all-when-empty='true' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:entity_type:nk]' />
+              <groupfilter function='member' level='[none:entity_type:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <computed-sort column='[federated.0rvgmdb03cjfjo1bk4wn10rsorhh].[none:entity_type:nk]' direction='DESC' using='[federated.0rvgmdb03cjfjo1bk4wn10rsorhh].[sum:Compensation:qk]' />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='on' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <size column='[federated.0rvgmdb03cjfjo1bk4wn10rsorhh].[sum:Calculation_1013309947807223808:qk]' />
+              <color column='[federated.0rvgmdb03cjfjo1bk4wn10rsorhh].[sum:Expenses:qk]' />
+              <text column='[federated.0rvgmdb03cjfjo1bk4wn10rsorhh].[none:entity_type:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-line-first' value='true' />
+                <format attr='mark-labels-line-last' value='true' />
+                <format attr='mark-labels-range-min' value='true' />
+                <format attr='mark-labels-range-max' value='true' />
+                <format attr='mark-labels-mode' value='all' />
+                <format attr='mark-labels-range-scope' value='pane' />
+                <format attr='mark-labels-range-field' value='' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{9530B19C-4934-43BE-A248-4C79416C32ED}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0rvgmdb03cjfjo1bk4wn10rsorhh].[sum:Expenses:qk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0rvgmdb03cjfjo1bk4wn10rsorhh].[none:entity_type:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{CCA562DE-9262-4CCC-9CF3-17E5C1F221B1}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAAFF0lEQVR4nO3X3W5UVRyG8Xd/zXc7A22hQ5lCmbQYAYPRGBMTD01MvAevwNsy3oHRI088
+      MFEJwagNFOjUlK+2w5TSzuz52B6gKNKQDNRWeZ/f2d7TlfzXwbNXV5BlWSbAVHjUAwBHiQBg
+      Lf77w+fXVtTq7BzVLMBLq+dy+uarH8Ze90wArc6Oljc7BzYUcFh6+by+/6U19jr+BYK1+J8v
+      sizT3WtXVDw2pUF3T5sry5pqntdoONCwn2qYpspPTGpm6c2jmBd4oclyQZcXT2u3l2qhPqXl
+      1j3dWt/UpeYp5ZJY99uPVJ+u6srymra2d/c/AcIk0cTJuuJ8QVPNJRVrx5/+dnxhUXvtrUPb
+      EDCOQi7WzfUN9QdD/Xz7rra2d/X2+YZyyV/f+mq5oN1uKmmfEyAIAlVPNbTb3lDlxKyy0VBh
+      nCguFtS+fVOj4UC1+bOHtiFgHPfbO1pszGh59Z7CMNRgMNSdjY4qxbyajRmtb3R0fe2B4ujJ
+      t/+5ACSpUK2pUK098y7K5TR78fK/vwPgFV1fe/Dcu87jrn78de3pc38wlMQlGOYIANYIANYI
+      ANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYI
+      ANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYI
+      ANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYI
+      ANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYI
+      ANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYI
+      ANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYIANYI
+      ANYIANYIANYIANYIANYIANYIANYIANbiox4AOAgT1ZI+/eyTsdcRAF4L/dFIK+3tsdc9E8CH
+      C9O6UC8f2FDAYSlGyasHEMUDxcngwIYCDksYRJKkvc5D3f3pqsIkURiFivNFdbcfqlCt6WHr
+      tkpT08qVKpq98JaCIOASjNdPEIbKlcqaOreoQa+rbqejyfqcpptLOvnGRfV2tpWNRpL2uQNk
+      WaZvv/xap88taH21pfnFpgIFal2/ofrZM7qz2tLJxpwetTu6+N47imKuEfjvyJcrarz7vsIo
+      0uatG6pfuqwgCDVIe6qentcwTVWbm1cYPTkxnjsBgiDQ7HxDpxbOqH3/gYIg0N7jx+ruddXv
+      9ZR2e6pMTirtdjUcDg99g8CLhHGsKEkUhKGmm0uKc3lFSaJ8uaJcqaxi7ZhqjTNP/37fz/fx
+      EzOKokgffPyR+mmqYqmkzlZbE7WqKtVJ9dO+coW8oj8qAv6vgizLsj8fvru3qq3e3lHOA7yU
+      fJDXF1d/G3sdl2BYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBYIwBY
+      IwBYIwBYIwBY+x1BwegZ4pGztwAAAABJRU5ErkJggg==
+    </thumbnail>
+  </thumbnails>
+</workbook>

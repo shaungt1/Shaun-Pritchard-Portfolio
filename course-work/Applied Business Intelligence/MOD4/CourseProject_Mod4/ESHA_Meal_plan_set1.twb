@@ -1,0 +1,1195 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20202.20.0415.1946                               -->
+<workbook original-version='18.1' source-build='2020.2.0 (20202.20.0415.1946)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='mealplans' inline='true' name='federated.1ibevwi1hdqx751c703ii1uvslsv' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='mealplans' name='textscan.0xb2sut0xnrm291cc48vc05hr9vd'>
+            <connection class='textscan' directory='D:/SHAUNS SCHOOL 🚸/Applied Business Intelligence/datasets/Cource Project Data Sets/Meal Plan Food user study' filename='mealplans.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0xb2sut0xnrm291cc48vc05hr9vd' name='mealplans.csv' table='[mealplans#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='id' ordinal='0' />
+            <column datatype='real' name='calories' ordinal='1' />
+            <column datatype='real' name='caloriesFromFat' ordinal='2' />
+            <column datatype='real' name='totalFat' ordinal='3' />
+            <column datatype='real' name='saturatedFat' ordinal='4' />
+            <column datatype='real' name='cholesterol' ordinal='5' />
+            <column datatype='real' name='sodium' ordinal='6' />
+            <column datatype='real' name='potassium' ordinal='7' />
+            <column datatype='real' name='totalCarbohydrates' ordinal='8' />
+            <column datatype='real' name='dietaryFiber' ordinal='9' />
+            <column datatype='real' name='protein' ordinal='10' />
+            <column datatype='real' name='sugars' ordinal='11' />
+            <column datatype='real' name='vitaminA' ordinal='12' />
+            <column datatype='real' name='vitaminC' ordinal='13' />
+            <column datatype='real' name='calcium' ordinal='14' />
+            <column datatype='real' name='iron' ordinal='15' />
+            <column datatype='real' name='thiamin' ordinal='16' />
+            <column datatype='real' name='niacin' ordinal='17' />
+            <column datatype='real' name='vitaminB6' ordinal='18' />
+            <column datatype='real' name='magnesium' ordinal='19' />
+            <column datatype='real' name='folate' ordinal='20' />
+            <column datatype='integer' name='breakfast0' ordinal='21' />
+            <column datatype='string' name='breakfast1' ordinal='22' />
+            <column datatype='string' name='breakfast2' ordinal='23' />
+            <column datatype='integer' name='lunch0' ordinal='24' />
+            <column datatype='integer' name='lunch1' ordinal='25' />
+            <column datatype='string' name='lunch2' ordinal='26' />
+            <column datatype='string' name='lunch3' ordinal='27' />
+            <column datatype='string' name='lunch4' ordinal='28' />
+            <column datatype='integer' name='dinner0' ordinal='29' />
+            <column datatype='integer' name='dinner1' ordinal='30' />
+            <column datatype='integer' name='dinner2' ordinal='31' />
+            <column datatype='string' name='dinner3' ordinal='32' />
+            <column datatype='string' name='dinner4' ordinal='33' />
+            <column datatype='string' name='dinner5' ordinal='34' />
+            <column datatype='string' name='dinner6' ordinal='35' />
+            <column datatype='string' name='snacks0' ordinal='36' />
+            <column datatype='string' name='snacks1' ordinal='37' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.0xb2sut0xnrm291cc48vc05hr9vd' name='mealplans.csv' table='[mealplans#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='id' ordinal='0' />
+            <column datatype='real' name='calories' ordinal='1' />
+            <column datatype='real' name='caloriesFromFat' ordinal='2' />
+            <column datatype='real' name='totalFat' ordinal='3' />
+            <column datatype='real' name='saturatedFat' ordinal='4' />
+            <column datatype='real' name='cholesterol' ordinal='5' />
+            <column datatype='real' name='sodium' ordinal='6' />
+            <column datatype='real' name='potassium' ordinal='7' />
+            <column datatype='real' name='totalCarbohydrates' ordinal='8' />
+            <column datatype='real' name='dietaryFiber' ordinal='9' />
+            <column datatype='real' name='protein' ordinal='10' />
+            <column datatype='real' name='sugars' ordinal='11' />
+            <column datatype='real' name='vitaminA' ordinal='12' />
+            <column datatype='real' name='vitaminC' ordinal='13' />
+            <column datatype='real' name='calcium' ordinal='14' />
+            <column datatype='real' name='iron' ordinal='15' />
+            <column datatype='real' name='thiamin' ordinal='16' />
+            <column datatype='real' name='niacin' ordinal='17' />
+            <column datatype='real' name='vitaminB6' ordinal='18' />
+            <column datatype='real' name='magnesium' ordinal='19' />
+            <column datatype='real' name='folate' ordinal='20' />
+            <column datatype='integer' name='breakfast0' ordinal='21' />
+            <column datatype='string' name='breakfast1' ordinal='22' />
+            <column datatype='string' name='breakfast2' ordinal='23' />
+            <column datatype='integer' name='lunch0' ordinal='24' />
+            <column datatype='integer' name='lunch1' ordinal='25' />
+            <column datatype='string' name='lunch2' ordinal='26' />
+            <column datatype='string' name='lunch3' ordinal='27' />
+            <column datatype='string' name='lunch4' ordinal='28' />
+            <column datatype='integer' name='dinner0' ordinal='29' />
+            <column datatype='integer' name='dinner1' ordinal='30' />
+            <column datatype='integer' name='dinner2' ordinal='31' />
+            <column datatype='string' name='dinner3' ordinal='32' />
+            <column datatype='string' name='dinner4' ordinal='33' />
+            <column datatype='string' name='dinner5' ordinal='34' />
+            <column datatype='string' name='dinner6' ordinal='35' />
+            <column datatype='string' name='snacks0' ordinal='36' />
+            <column datatype='string' name='snacks1' ordinal='37' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>id</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[id]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>id</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>calories</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[calories]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>calories</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>caloriesFromFat</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[caloriesFromFat]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>caloriesFromFat</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>totalFat</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[totalFat]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>totalFat</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>saturatedFat</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[saturatedFat]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>saturatedFat</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>cholesterol</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[cholesterol]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>cholesterol</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>sodium</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[sodium]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>sodium</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>potassium</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[potassium]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>potassium</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>totalCarbohydrates</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[totalCarbohydrates]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>totalCarbohydrates</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>dietaryFiber</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[dietaryFiber]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>dietaryFiber</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>protein</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[protein]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>protein</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>sugars</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[sugars]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>sugars</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>vitaminA</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[vitaminA]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>vitaminA</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>vitaminC</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[vitaminC]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>vitaminC</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>calcium</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[calcium]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>calcium</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>iron</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[iron]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>iron</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>thiamin</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[thiamin]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>thiamin</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>niacin</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[niacin]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>niacin</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>vitaminB6</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[vitaminB6]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>vitaminB6</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>magnesium</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[magnesium]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>magnesium</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>folate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[folate]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>folate</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>breakfast0</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[breakfast0]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>breakfast0</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>breakfast1</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[breakfast1]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>breakfast1</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>breakfast2</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[breakfast2]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>breakfast2</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>lunch0</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[lunch0]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>lunch0</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>lunch1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[lunch1]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>lunch1</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>lunch2</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[lunch2]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>lunch2</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>lunch3</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[lunch3]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>lunch3</remote-alias>
+            <ordinal>27</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>lunch4</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[lunch4]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>lunch4</remote-alias>
+            <ordinal>28</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>dinner0</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[dinner0]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>dinner0</remote-alias>
+            <ordinal>29</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>dinner1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[dinner1]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>dinner1</remote-alias>
+            <ordinal>30</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>dinner2</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[dinner2]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>dinner2</remote-alias>
+            <ordinal>31</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>dinner3</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[dinner3]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>dinner3</remote-alias>
+            <ordinal>32</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>dinner4</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[dinner4]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>dinner4</remote-alias>
+            <ordinal>33</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>dinner5</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[dinner5]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>dinner5</remote-alias>
+            <ordinal>34</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>dinner6</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[dinner6]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>dinner6</remote-alias>
+            <ordinal>35</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>snacks0</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[snacks0]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>snacks0</remote-alias>
+            <ordinal>36</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>snacks1</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[snacks1]</local-name>
+            <parent-name>[mealplans.csv]</parent-name>
+            <remote-alias>snacks1</remote-alias>
+            <ordinal>37</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <_.fcp.ObjectModelTableType.true...column caption='mealplans.csv' datatype='table' name='[__tableau_internal_object_id__].[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]' role='measure' type='quantitative' />
+      <column caption='Breakfast0' datatype='integer' name='[breakfast0]' role='measure' type='quantitative' />
+      <column caption='Breakfast1' datatype='string' name='[breakfast1]' role='dimension' type='nominal' />
+      <column caption='Breakfast2' datatype='string' name='[breakfast2]' role='dimension' type='nominal' />
+      <column caption='Calcium' datatype='real' name='[calcium]' role='measure' type='quantitative' />
+      <column caption='Calories From Fat' datatype='real' name='[caloriesFromFat]' role='measure' type='quantitative' />
+      <column caption='Calories' datatype='real' name='[calories]' role='measure' type='quantitative' />
+      <column caption='Cholesterol' datatype='real' name='[cholesterol]' role='measure' type='quantitative' />
+      <column caption='Dietary Fiber' datatype='real' name='[dietaryFiber]' role='measure' type='quantitative' />
+      <column caption='Dinner0' datatype='integer' name='[dinner0]' role='measure' type='quantitative' />
+      <column caption='Dinner1' datatype='integer' name='[dinner1]' role='measure' type='quantitative' />
+      <column caption='Dinner2' datatype='integer' name='[dinner2]' role='measure' type='quantitative' />
+      <column caption='Dinner3' datatype='string' name='[dinner3]' role='dimension' type='nominal' />
+      <column caption='Dinner4' datatype='string' name='[dinner4]' role='dimension' type='nominal' />
+      <column caption='Dinner5' datatype='string' name='[dinner5]' role='dimension' type='nominal' />
+      <column caption='Dinner6' datatype='string' name='[dinner6]' role='dimension' type='nominal' />
+      <column caption='Folate' datatype='real' name='[folate]' role='measure' type='quantitative' />
+      <column caption='Id' datatype='integer' name='[id]' role='dimension' type='ordinal' />
+      <column caption='Iron' datatype='real' name='[iron]' role='measure' type='quantitative' />
+      <column caption='Lunch0' datatype='integer' name='[lunch0]' role='measure' type='quantitative' />
+      <column caption='Lunch1' datatype='integer' name='[lunch1]' role='measure' type='quantitative' />
+      <column caption='Lunch2' datatype='string' name='[lunch2]' role='dimension' type='nominal' />
+      <column caption='Lunch3' datatype='string' name='[lunch3]' role='dimension' type='nominal' />
+      <column caption='Lunch4' datatype='string' name='[lunch4]' role='dimension' type='nominal' />
+      <column caption='Magnesium' datatype='real' name='[magnesium]' role='measure' type='quantitative' />
+      <column caption='Niacin' datatype='real' name='[niacin]' role='measure' type='quantitative' />
+      <column caption='Potassium' datatype='real' name='[potassium]' role='measure' type='quantitative' />
+      <column caption='Protein' datatype='real' name='[protein]' role='measure' type='quantitative' />
+      <column caption='Saturated Fat' datatype='real' name='[saturatedFat]' role='measure' type='quantitative' />
+      <column caption='Snacks0' datatype='string' name='[snacks0]' role='dimension' type='nominal' />
+      <column caption='Snacks1' datatype='string' name='[snacks1]' role='dimension' type='nominal' />
+      <column caption='Sodium' datatype='real' name='[sodium]' role='measure' type='quantitative' />
+      <column caption='Sugars' datatype='real' name='[sugars]' role='measure' type='quantitative' />
+      <column caption='Thiamin' datatype='real' name='[thiamin]' role='measure' type='quantitative' />
+      <column caption='Total Carbohydrates' datatype='real' name='[totalCarbohydrates]' role='measure' type='quantitative' />
+      <column caption='Total Fat' datatype='real' name='[totalFat]' role='measure' type='quantitative' />
+      <column caption='Vitamin A' datatype='real' name='[vitaminA]' role='measure' type='quantitative' />
+      <column datatype='real' name='[vitaminB6]' role='measure' type='quantitative' />
+      <column caption='Vitamin C' datatype='real' name='[vitaminC]' role='measure' type='quantitative' />
+      <column-instance column='[__tableau_internal_object_id__].[mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[calories]' derivation='Avg' name='[avg:calories:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[dietaryFiber]' derivation='Avg' name='[avg:dietaryFiber:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[protein]' derivation='Avg' name='[avg:protein:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[sodium]' derivation='Avg' name='[avg:sodium:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[sugars]' derivation='Avg' name='[avg:sugars:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[breakfast0]' derivation='Sum' name='[sum:breakfast0:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[calcium]' derivation='Sum' name='[sum:calcium:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[calories]' derivation='Sum' name='[sum:calories:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[caloriesFromFat]' derivation='Sum' name='[sum:caloriesFromFat:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[cholesterol]' derivation='Sum' name='[sum:cholesterol:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[dietaryFiber]' derivation='Sum' name='[sum:dietaryFiber:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[dinner0]' derivation='Sum' name='[sum:dinner0:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[dinner1]' derivation='Sum' name='[sum:dinner1:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[dinner2]' derivation='Sum' name='[sum:dinner2:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[folate]' derivation='Sum' name='[sum:folate:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[iron]' derivation='Sum' name='[sum:iron:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[lunch0]' derivation='Sum' name='[sum:lunch0:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[lunch1]' derivation='Sum' name='[sum:lunch1:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[magnesium]' derivation='Sum' name='[sum:magnesium:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[niacin]' derivation='Sum' name='[sum:niacin:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[potassium]' derivation='Sum' name='[sum:potassium:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[protein]' derivation='Sum' name='[sum:protein:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[saturatedFat]' derivation='Sum' name='[sum:saturatedFat:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[sodium]' derivation='Sum' name='[sum:sodium:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[sugars]' derivation='Sum' name='[sum:sugars:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[thiamin]' derivation='Sum' name='[sum:thiamin:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[totalCarbohydrates]' derivation='Sum' name='[sum:totalCarbohydrates:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[totalFat]' derivation='Sum' name='[sum:totalFat:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[vitaminA]' derivation='Sum' name='[sum:vitaminA:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[vitaminB6]' derivation='Sum' name='[sum:vitaminB6:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[vitaminC]' derivation='Sum' name='[sum:vitaminC:qk]' pivot='key' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#499894'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:dinner0:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:breakfast0:qk]&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:sodium:qk]&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:sugars:qk]&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:vitaminA:qk]&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:calories:qk]&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:totalFat:qk]&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:folate:qk]&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:dinner1:qk]&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:cholesterol:qk]&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:vitaminC:qk]&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:potassium:qk]&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:saturatedFat:qk]&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:calcium:qk]&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:thiamin:qk]&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:magnesium:qk]&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[__tableau_internal_object_id__].[cnt:mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A:qk]&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:vitaminB6:qk]&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:iron:qk]&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:lunch0:qk]&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:niacin:qk]&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:sodium:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:dietaryFiber:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:protein:qk]&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:sugars:qk]&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:dietaryFiber:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:protein:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:calories:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:totalCarbohydrates:qk]&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:lunch1:qk]&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:dinner2:qk]&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[sum:caloriesFromFat:qk]&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='mealplans.csv' id='mealplans.csv_F2ADDE7219CA4CBAAB6A65A378D0036A'>
+            <properties context=''>
+              <relation connection='textscan.0xb2sut0xnrm291cc48vc05hr9vd' name='mealplans.csv' table='[mealplans#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='id' ordinal='0' />
+                  <column datatype='real' name='calories' ordinal='1' />
+                  <column datatype='real' name='caloriesFromFat' ordinal='2' />
+                  <column datatype='real' name='totalFat' ordinal='3' />
+                  <column datatype='real' name='saturatedFat' ordinal='4' />
+                  <column datatype='real' name='cholesterol' ordinal='5' />
+                  <column datatype='real' name='sodium' ordinal='6' />
+                  <column datatype='real' name='potassium' ordinal='7' />
+                  <column datatype='real' name='totalCarbohydrates' ordinal='8' />
+                  <column datatype='real' name='dietaryFiber' ordinal='9' />
+                  <column datatype='real' name='protein' ordinal='10' />
+                  <column datatype='real' name='sugars' ordinal='11' />
+                  <column datatype='real' name='vitaminA' ordinal='12' />
+                  <column datatype='real' name='vitaminC' ordinal='13' />
+                  <column datatype='real' name='calcium' ordinal='14' />
+                  <column datatype='real' name='iron' ordinal='15' />
+                  <column datatype='real' name='thiamin' ordinal='16' />
+                  <column datatype='real' name='niacin' ordinal='17' />
+                  <column datatype='real' name='vitaminB6' ordinal='18' />
+                  <column datatype='real' name='magnesium' ordinal='19' />
+                  <column datatype='real' name='folate' ordinal='20' />
+                  <column datatype='integer' name='breakfast0' ordinal='21' />
+                  <column datatype='string' name='breakfast1' ordinal='22' />
+                  <column datatype='string' name='breakfast2' ordinal='23' />
+                  <column datatype='integer' name='lunch0' ordinal='24' />
+                  <column datatype='integer' name='lunch1' ordinal='25' />
+                  <column datatype='string' name='lunch2' ordinal='26' />
+                  <column datatype='string' name='lunch3' ordinal='27' />
+                  <column datatype='string' name='lunch4' ordinal='28' />
+                  <column datatype='integer' name='dinner0' ordinal='29' />
+                  <column datatype='integer' name='dinner1' ordinal='30' />
+                  <column datatype='integer' name='dinner2' ordinal='31' />
+                  <column datatype='string' name='dinner3' ordinal='32' />
+                  <column datatype='string' name='dinner4' ordinal='33' />
+                  <column datatype='string' name='dinner5' ordinal='34' />
+                  <column datatype='string' name='dinner6' ordinal='35' />
+                  <column datatype='string' name='snacks0' ordinal='36' />
+                  <column datatype='string' name='snacks1' ordinal='37' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Dinner'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true'>MealPlan &amp; Dietary Dataset</run>
+            <run>Æ&#10;</run>
+            <run fontsize='12'>Cleaned ESHA Data   Meals</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='mealplans' name='federated.1ibevwi1hdqx751c703ii1uvslsv' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1ibevwi1hdqx751c703ii1uvslsv'>
+            <column-instance column='[calories]' derivation='Avg' name='[avg:calories:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[dietaryFiber]' derivation='Avg' name='[avg:dietaryFiber:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[dinner0]' derivation='Avg' name='[avg:dinner0:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[protein]' derivation='Avg' name='[avg:protein:qk]' pivot='key' type='quantitative' />
+            <column caption='Calories' datatype='real' name='[calories]' role='measure' type='quantitative' />
+            <column caption='Dietary Fiber' datatype='real' name='[dietaryFiber]' role='measure' type='quantitative' />
+            <column caption='Dinner0' datatype='integer' name='[dinner0]' role='measure' type='quantitative' />
+            <column caption='Dinner6' datatype='string' name='[dinner6]' role='dimension' type='nominal' />
+            <column-instance column='[dinner6]' derivation='None' name='[none:dinner6:nk]' pivot='key' type='nominal' />
+            <column caption='Protein' datatype='real' name='[protein]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1ibevwi1hdqx751c703ii1uvslsv].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:calories:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:dietaryFiber:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:protein:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <filter class='quantitative' column='[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:dinner0:qk]' included-values='in-range'>
+            <min>2.0</min>
+            <max>32400.0</max>
+          </filter>
+          <filter class='categorical' column='[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:dinner6:nk]'>
+            <groupfilter function='member' level='[none:dinner6:nk]' member='&quot;23666&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1ibevwi1hdqx751c703ii1uvslsv].[:Measure Names]</column>
+            <column>[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:dinner0:qk]</column>
+            <column>[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:dinner6:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.1ibevwi1hdqx751c703ii1uvslsv].[:Measure Names]' value='222' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1ibevwi1hdqx751c703ii1uvslsv].[:Measure Names]' />
+            </encodings>
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1ibevwi1hdqx751c703ii1uvslsv].[Multiple Values]</rows>
+        <cols>([federated.1ibevwi1hdqx751c703ii1uvslsv].[none:dinner6:nk] / [federated.1ibevwi1hdqx751c703ii1uvslsv].[:Measure Names])</cols>
+      </table>
+      <simple-id uuid='{7A6190CA-3062-4EA2-BFF3-C4588CEBFDA1}' />
+    </worksheet>
+    <worksheet name='Lunch'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true'>MealPlan &amp; Dietary Dataset</run>
+            <run>Æ&#10;</run>
+            <run fontsize='12'>Cleaned ESHA Data   Meals Lunch</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='mealplans' name='federated.1ibevwi1hdqx751c703ii1uvslsv' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1ibevwi1hdqx751c703ii1uvslsv'>
+            <column-instance column='[calories]' derivation='Avg' name='[avg:calories:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[dietaryFiber]' derivation='Avg' name='[avg:dietaryFiber:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[dinner0]' derivation='Avg' name='[avg:dinner0:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[protein]' derivation='Avg' name='[avg:protein:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[sodium]' derivation='Avg' name='[avg:sodium:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[sugars]' derivation='Avg' name='[avg:sugars:qk]' pivot='key' type='quantitative' />
+            <column caption='Calories' datatype='real' name='[calories]' role='measure' type='quantitative' />
+            <column caption='Dietary Fiber' datatype='real' name='[dietaryFiber]' role='measure' type='quantitative' />
+            <column caption='Dinner0' datatype='integer' name='[dinner0]' role='measure' type='quantitative' />
+            <column caption='Lunch2' datatype='string' name='[lunch2]' role='dimension' type='nominal' />
+            <column-instance column='[lunch2]' derivation='None' name='[none:lunch2:nk]' pivot='key' type='nominal' />
+            <column caption='Protein' datatype='real' name='[protein]' role='measure' type='quantitative' />
+            <column caption='Sodium' datatype='real' name='[sodium]' role='measure' type='quantitative' />
+            <column caption='Sugars' datatype='real' name='[sugars]' role='measure' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1ibevwi1hdqx751c703ii1uvslsv].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:calories:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:dietaryFiber:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:protein:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:sodium:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:sugars:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <filter class='quantitative' column='[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:dietaryFiber:qk]' included-values='in-range'>
+            <min>50.200000000000003</min>
+            <max>50.200000000000003</max>
+          </filter>
+          <filter class='quantitative' column='[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:dinner0:qk]' included-values='in-range'>
+            <min>2.0</min>
+            <max>32400.0</max>
+          </filter>
+          <filter class='categorical' column='[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:lunch2:nk]'>
+            <groupfilter function='level-members' level='[none:lunch2:nk]' user:ui-manual-selection='true' user:ui-manual-selection-all-when-empty='true' user:ui-manual-selection-is-empty='true' user:ui-marker='enumerate' />
+          </filter>
+          <slices>
+            <column>[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:dinner0:qk]</column>
+            <column>[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:lunch2:nk]</column>
+            <column>[federated.1ibevwi1hdqx751c703ii1uvslsv].[avg:dietaryFiber:qk]</column>
+            <column>[federated.1ibevwi1hdqx751c703ii1uvslsv].[:Measure Names]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='width' field='[federated.1ibevwi1hdqx751c703ii1uvslsv].[:Measure Names]' value='122' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1ibevwi1hdqx751c703ii1uvslsv].[:Measure Names]' />
+            </encodings>
+            <style>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='-1' />
+                <format attr='maxwidth' value='-1' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1ibevwi1hdqx751c703ii1uvslsv].[Multiple Values]</rows>
+        <cols>([federated.1ibevwi1hdqx751c703ii1uvslsv].[none:lunch2:nk] / [federated.1ibevwi1hdqx751c703ii1uvslsv].[:Measure Names])</cols>
+      </table>
+      <simple-id uuid='{D34BD89E-2D14-4108-899B-998E1BF27ABC}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' name='Dinner'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1ibevwi1hdqx751c703ii1uvslsv].[:Measure Names]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1ibevwi1hdqx751c703ii1uvslsv].[:Measure Names]</field>
+            <field>[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:breakfast1:nk]</field>
+            <field>[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:dinner3:nk]</field>
+            <field>[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:dinner6:nk]</field>
+            <field>[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:id:ok]</field>
+            <field>[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:lunch2:nk]</field>
+            <field>[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:lunch3:nk]</field>
+            <field>[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:snacks0:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{89654A64-41C5-4752-B798-FB2F84A6B6E1}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Lunch'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1ibevwi1hdqx751c703ii1uvslsv].[:Measure Names]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1ibevwi1hdqx751c703ii1uvslsv].[:Measure Names]</field>
+            <field>[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:breakfast1:nk]</field>
+            <field>[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:dinner3:nk]</field>
+            <field>[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:dinner6:nk]</field>
+            <field>[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:id:ok]</field>
+            <field>[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:lunch2:nk]</field>
+            <field>[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:lunch3:nk]</field>
+            <field>[federated.1ibevwi1hdqx751c703ii1uvslsv].[none:snacks0:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{8C2CDC23-DFA0-4114-A99B-3C78ACA9616E}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Dinner' width='192'>
+      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
+    </thumbnail>
+    <thumbnail height='192' name='Lunch' width='192'>
+      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
+      80oZAAAAAElFTkSuQmCC
+    </thumbnail>
+  </thumbnails>
+</workbook>

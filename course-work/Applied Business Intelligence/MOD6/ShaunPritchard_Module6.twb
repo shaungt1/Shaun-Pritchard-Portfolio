@@ -1,0 +1,840 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20202.20.0415.1946                               -->
+<workbook original-version='18.1' source-build='2020.2.0 (20202.20.0415.1946)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='Sheet1 (Sample Data)' inline='true' name='federated.1eoscha14huufq1eiuil30ad6179' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Sample Data' name='excel-direct.19pgcfc01kcprl1cgqw2y16di7jm'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='D:/SHAUNS SCHOOL 🚸/Applied Business Intelligence/MOD6/Sample Data.xlsx' interpretationMode='0' password='' server='' validate='no' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.19pgcfc01kcprl1cgqw2y16di7jm' name='Sheet1' table='[Sheet1$]' type='table'>
+          <columns gridOrigin='A1:L582:no:A1:L582:0' header='yes' outcome='2'>
+            <column datatype='date' name='Date' ordinal='0' />
+            <column datatype='string' name='Title (click to view)' ordinal='1' />
+            <column datatype='string' name='Genre' ordinal='2' />
+            <column datatype='string' name='Studio' ordinal='3' />
+            <column datatype='integer' name='Lifetime Gross' ordinal='4' />
+            <column datatype='integer' name='Theatres' ordinal='5' />
+            <column datatype='integer' name='Opening' ordinal='6' />
+            <column datatype='string' name='Studio6' ordinal='7' />
+            <column datatype='integer' name='Adjusted Gross' ordinal='8' />
+            <column datatype='integer' name='Unadjusted Gross' ordinal='9' />
+            <column datatype='date' name='Release' ordinal='10' />
+            <column datatype='string' name='Director' ordinal='11' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='excel-direct.19pgcfc01kcprl1cgqw2y16di7jm' name='Sheet1' table='[Sheet1$]' type='table'>
+          <columns gridOrigin='A1:L582:no:A1:L582:0' header='yes' outcome='2'>
+            <column datatype='date' name='Date' ordinal='0' />
+            <column datatype='string' name='Title (click to view)' ordinal='1' />
+            <column datatype='string' name='Genre' ordinal='2' />
+            <column datatype='string' name='Studio' ordinal='3' />
+            <column datatype='integer' name='Lifetime Gross' ordinal='4' />
+            <column datatype='integer' name='Theatres' ordinal='5' />
+            <column datatype='integer' name='Opening' ordinal='6' />
+            <column datatype='string' name='Studio6' ordinal='7' />
+            <column datatype='integer' name='Adjusted Gross' ordinal='8' />
+            <column datatype='integer' name='Unadjusted Gross' ordinal='9' />
+            <column datatype='date' name='Release' ordinal='10' />
+            <column datatype='string' name='Director' ordinal='11' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:L582:no:A1:L582:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>2</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Date</remote-name>
+            <remote-type>7</remote-type>
+            <local-name>[Date]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Date</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;DATE&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_B372C230951449EF90F0B9FE56B9C922]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Title (click to view)</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Title (click to view)]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Title (click to view)</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_B372C230951449EF90F0B9FE56B9C922]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Genre</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Genre]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Genre</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_B372C230951449EF90F0B9FE56B9C922]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Studio</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Studio]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Studio</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_B372C230951449EF90F0B9FE56B9C922]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Lifetime Gross</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Lifetime Gross]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Lifetime Gross</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_B372C230951449EF90F0B9FE56B9C922]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Theatres</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Theatres]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Theatres</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_B372C230951449EF90F0B9FE56B9C922]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Opening</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Opening]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Opening</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_B372C230951449EF90F0B9FE56B9C922]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Studio6</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Studio6]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Studio6</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_B372C230951449EF90F0B9FE56B9C922]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Adjusted Gross</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Adjusted Gross]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Adjusted Gross</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_B372C230951449EF90F0B9FE56B9C922]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Unadjusted Gross</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Unadjusted Gross]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Unadjusted Gross</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_B372C230951449EF90F0B9FE56B9C922]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Release</remote-name>
+            <remote-type>7</remote-type>
+            <local-name>[Release]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Release</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;DATE&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_B372C230951449EF90F0B9FE56B9C922]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Director</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Director]</local-name>
+            <parent-name>[Sheet1]</parent-name>
+            <remote-alias>Director</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RUS_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[Sheet1_B372C230951449EF90F0B9FE56B9C922]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Top gross genre' datatype='integer' name='[Calculation_1988057802352115712]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='[Lifetime Gross]' />
+      </column>
+      <column datatype='date' name='[Date]' role='dimension' type='ordinal' />
+      <column datatype='string' name='[Genre]' role='dimension' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='Sheet1' datatype='table' name='[__tableau_internal_object_id__].[Sheet1_B372C230951449EF90F0B9FE56B9C922]' role='measure' type='quantitative' />
+      <column-instance column='[Genre]' derivation='None' name='[none:Genre:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Date]' derivation='Year-Trunc' name='[tyr:Date:ok]' pivot='key' type='ordinal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Genre:nk]' type='palette'>
+            <map to='#499894'>
+              <bucket>&quot;Drama&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>%null%</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Biography&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Musical&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Fantasy&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Comedy&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Thriller&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Action&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Sci-Fi&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Crime&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Mystery&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Romance&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;SciFi&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;History&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Documentary&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Adventure&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Romantic Comedy&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Horror&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Animation&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[tyr:Date:ok]' type='palette'>
+            <map to='#499894'>
+              <bucket>#1980-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>#2000-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>#1971-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>#1992-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>#2012-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>#1976-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>#1996-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>#2016-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>#1984-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>#2004-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>#1981-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>#2001-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>#1977-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>#1997-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>#1990-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>#2010-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>#1973-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>#1993-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>#2013-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>#1988-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>#2008-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>#1978-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>#1998-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>#1985-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>#2005-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>#1986-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>#2006-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>#1989-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>#2009-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>#1991-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>#2011-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>#1982-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>#2002-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>#1979-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>#1999-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>#1974-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>#1994-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>#2014-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>#1987-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>#2007-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>#1983-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>#2003-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>#1975-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>#1995-01-01 00:00:00#</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>#2015-01-01 00:00:00#</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='Sheet1' id='Sheet1_B372C230951449EF90F0B9FE56B9C922'>
+            <properties context=''>
+              <relation connection='excel-direct.19pgcfc01kcprl1cgqw2y16di7jm' name='Sheet1' table='[Sheet1$]' type='table'>
+                <columns gridOrigin='A1:L582:no:A1:L582:0' header='yes' outcome='2'>
+                  <column datatype='date' name='Date' ordinal='0' />
+                  <column datatype='string' name='Title (click to view)' ordinal='1' />
+                  <column datatype='string' name='Genre' ordinal='2' />
+                  <column datatype='string' name='Studio' ordinal='3' />
+                  <column datatype='integer' name='Lifetime Gross' ordinal='4' />
+                  <column datatype='integer' name='Theatres' ordinal='5' />
+                  <column datatype='integer' name='Opening' ordinal='6' />
+                  <column datatype='string' name='Studio6' ordinal='7' />
+                  <column datatype='integer' name='Adjusted Gross' ordinal='8' />
+                  <column datatype='integer' name='Unadjusted Gross' ordinal='9' />
+                  <column datatype='date' name='Release' ordinal='10' />
+                  <column datatype='string' name='Director' ordinal='11' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true'>Best Genre by year</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Sheet1 (Sample Data)' name='federated.1eoscha14huufq1eiuil30ad6179' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1eoscha14huufq1eiuil30ad6179'>
+            <column caption='Top gross genre' datatype='integer' name='[Calculation_1988057802352115712]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='[Lifetime Gross]' />
+            </column>
+            <column datatype='date' name='[Date]' role='dimension' type='ordinal' />
+            <column datatype='string' name='[Genre]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Lifetime Gross]' role='measure' type='quantitative' />
+            <column-instance column='[Calculation_1988057802352115712]' derivation='Min' name='[min:Calculation_1988057802352115712:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Genre]' derivation='None' name='[none:Genre:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Lifetime Gross]' derivation='Sum' name='[sum:Lifetime Gross:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Date]' derivation='Year-Trunc' name='[tyr:Date:ok]' pivot='key' type='ordinal' />
+          </datasource-dependencies>
+          <filter class='quantitative' column='[federated.1eoscha14huufq1eiuil30ad6179].[min:Calculation_1988057802352115712:qk]' included-values='in-range'>
+            <min>1714</min>
+            <max>464729630</max>
+          </filter>
+          <filter class='categorical' column='[federated.1eoscha14huufq1eiuil30ad6179].[none:Genre:nk]'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Genre:nk]' />
+              <groupfilter function='member' level='[none:Genre:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <filter class='quantitative' column='[federated.1eoscha14huufq1eiuil30ad6179].[sum:Lifetime Gross:qk]' included-values='in-range'>
+            <min>1109376197</min>
+            <max>1784813207</max>
+          </filter>
+          <slices>
+            <column>[federated.1eoscha14huufq1eiuil30ad6179].[min:Calculation_1988057802352115712:qk]</column>
+            <column>[federated.1eoscha14huufq1eiuil30ad6179].[none:Genre:nk]</column>
+            <column>[federated.1eoscha14huufq1eiuil30ad6179].[sum:Lifetime Gross:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='mark'>
+            <encoding attr='size-bar' field='[federated.1eoscha14huufq1eiuil30ad6179].[sum:Lifetime Gross:qk]' field-type='quantitative' max-size='1' min-size='0.005' type='centersize' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[federated.1eoscha14huufq1eiuil30ad6179].[tyr:Date:ok]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.1eoscha14huufq1eiuil30ad6179].[sum:Lifetime Gross:qk]</rows>
+        <cols>([federated.1eoscha14huufq1eiuil30ad6179].[none:Genre:nk] / [federated.1eoscha14huufq1eiuil30ad6179].[tyr:Date:ok])</cols>
+        <annotations>
+          <annotation class='point' id='1' mark-position='1' pullback='0' text-width='128'>
+            <formatted-text>
+              <run>Romance</run>
+            </formatted-text>
+            <point>
+              <visual-coordinate class='axis'>
+                <x-coord cell-offset='0.337023'>
+                  <node-reference />
+                </x-coord>
+                <y-coord cell-offset='0.649446'>
+                  <node-reference />
+                </y-coord>
+                <page-reference />
+              </visual-coordinate>
+            </point>
+            <body x='-111' y='145' />
+          </annotation>
+          <annotation class='point' id='2' mark-position='1' pullback='0' text-width='112'>
+            <formatted-text>
+              <run>Mystery</run>
+            </formatted-text>
+            <point>
+              <visual-coordinate class='axis'>
+                <x-coord cell-offset='0.362854'>
+                  <node-reference />
+                </x-coord>
+                <y-coord cell-offset='0.662977'>
+                  <node-reference />
+                </y-coord>
+                <page-reference />
+              </visual-coordinate>
+            </point>
+            <body x='-124' y='203' />
+          </annotation>
+          <annotation class='point' id='3' mark-position='1' pullback='0' text-width='68'>
+            <formatted-text>
+              <run>Musical</run>
+            </formatted-text>
+            <point>
+              <visual-coordinate class='axis'>
+                <x-coord cell-offset='0.382534'>
+                  <node-reference />
+                </x-coord>
+                <y-coord cell-offset='0.664207'>
+                  <node-reference />
+                </y-coord>
+                <page-reference />
+              </visual-coordinate>
+            </point>
+            <body x='-51' y='167' />
+          </annotation>
+          <annotation class='point' id='4' mark-position='1' pullback='0' text-width='69'>
+            <formatted-text>
+              <run>History</run>
+            </formatted-text>
+            <point>
+              <visual-coordinate class='axis'>
+                <x-coord cell-offset='0.452645'>
+                  <node-reference />
+                </x-coord>
+                <y-coord cell-offset='0.674047'>
+                  <node-reference />
+                </y-coord>
+                <page-reference />
+              </visual-coordinate>
+            </point>
+            <body x='-20' y='186' />
+          </annotation>
+          <annotation class='point' id='5' mark-position='1' pullback='0' text-width='180'>
+            <formatted-text>
+              <run>Biography</run>
+            </formatted-text>
+            <point>
+              <visual-coordinate class='axis'>
+                <x-coord cell-offset='0.584256'>
+                  <node-reference />
+                </x-coord>
+                <y-coord cell-offset='0.420664'>
+                  <node-reference />
+                </y-coord>
+                <page-reference />
+              </visual-coordinate>
+            </point>
+            <body x='129' y='-206' />
+          </annotation>
+        </annotations>
+      </table>
+      <simple-id uuid='{7B88AC84-4961-43A9-9A0D-CB66E25E0643}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1eoscha14huufq1eiuil30ad6179].[tyr:Date:ok]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.1eoscha14huufq1eiuil30ad6179].[tyr:Date:ok]</field>
+            <field>[federated.1eoscha14huufq1eiuil30ad6179].[tyr:Release:ok]</field>
+            <field>[federated.1eoscha14huufq1eiuil30ad6179].[yr:Release:ok]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{AB68520E-3FA0-47B9-8FE3-D82E562FC269}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+      OsKH8f8BzXHdQ4IbBaYAAAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>

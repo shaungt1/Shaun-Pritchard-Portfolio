@@ -1,0 +1,10 @@
+UNITID	OPEID	OPEID6	INSTNM	CITY	STABBR	INSTURL	NPCURL	HCM2	PREDDEG	HIGHDEG	CONTROL
+100654	100200	1002	Alabama A & M University	Normal	AL	www.aamu.edu/	www2.aamu.edu/scripts/netpricecalc/npcalc.htm	0	3	4	1
+100663	105200	1052	University of Alabama at Birmingham	Birmingham	AL	www.uab.edu	uab.studentaidcalculator.com/survey.aspx	0	3	4	1
+100690	2503400	25034	Amridge University	Montgomery	AL	www.amridgeuniversity.edu	www2.amridgeuniversity.edu:9091/	0	3	4	2
+100706	105500	1055	University of Alabama in Huntsville	Huntsville	AL	www.uah.edu	finaid.uah.edu/	0	3	4	1
+100724	100500	1005	Alabama State University	Montgomery	AL	www.alasu.edu	www.alasu.edu/cost-aid/forms/calculator/index.aspx	0	3	4	1
+100751	105100	1051	The University of Alabama	Tuscaloosa	AL	www.ua.edu/	financialaid.ua.edu/net-price-calculator/	0	3	4	1
+100760	100700	1007	Central Alabama Community College	Alexander City	AL	www.cacc.edu	www.cacc.edu/NetPriceCalculator/14-15/npcalc.html	0	2	2	1
+100812	100800	1008	Athens State University	Athens	AL	www.athens.edu	https://24.athens.edu/apex/prod8/f?p=174:1:3941357449598491	0	3	3	1
+100830	831000	8310	Auburn University at Montgomery	Montgomery	AL	www.aum.edu	www.aum.edu/current-students/financial-information/net-price-calculator	0	3	4	1
