@@ -1,10 +1,10 @@
-# **Welcome to the Class (Course-Work) Section**
+# **Welcome to My Work section**
 
-The class section is a collective of my upper level under grad and grad work. I have included files, scripts, app, proofs, abstracts, and much more for employers and business partners or investors to review. Also, just to show my abilities through academia. Each folder will include sub-folders pertaining to the academic works I have completed.
+The section contains a compilation of my upper-level undergraduate and freelance work. For employers and business partners, or investors to review, I have provided files, scripts, apps, proofs, and abstracts. In addition, to demonstrate my abilities through academia in relation to the professional world. My academic and credited works will be organized into sub-folders within each folder.
 
-### Classes
+### Course Work
 
->The Classes section gives me a way to publish my course work and highlight my achievements, proofs, problems, and understanding of specific topics. All Proofs are written to specified guild lines and methods that implement contridiction, well ordering and logical proposition principles. All papers, articles, and thesis are written in APA format. All Programs where written with VS Code, PyScripter, Jupyter Notebook, Octave, and other text editors openly available.
+> The Classes section gives me a way to publish my course work and highlight my achievements, proofs, problems, and understanding of specific topics. All Proofs are written to specified guild lines and methods that implement contridiction, well ordering and logical proposition principles. All papers, articles, and thesis are written in APA format. All Programs where written with VS Code, PyScripter, Jupyter Notebook, Octave, and other text editors openly available.
 
  * AI (artificial Intelligence)
  * Algorithms
@@ -40,9 +40,9 @@ The class section is a collective of my upper level under grad and grad work. I 
 
 
 <!-- dictonaries-->
-[website]: https://webreactor.us
-[twitter]: https://twitter.com/SimpleStupid0
+[website]: https://shaunpritchard.net
+[twitter]: https://twitter.com/shaunPx1
 [youtube]: https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw/
-[instagram]: https://www.instagram.com/shaun.pritchard1/
+[instagram]: https://www.instagram.com/shaunPx1/
 [linkedin]: https://www.linkedin.com/in/shaunpritchard1/
 [facebook]: https://www.facebook.com/shaunpritchardlive
