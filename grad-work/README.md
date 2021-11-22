@@ -1,7 +1,11 @@
-# **Shaun Pritchard Graduate Studies in A.I**
+<h1 align="center"> 
+Shaun Pritchard: Professional Graduate, Computational Science in Artificial Intelligence
+</h1>
 
-![](<img>)
+<p align="center">
 <img src="docs/fau.png" data-canonical-src="docs/fau.png" width="100" height="100" />
+</p>
+
 
 Research and work I completed for my professional advanced degree in Artificial Intelligence at Florida Atlantic University, College of Engineering and Computer Science can be found here. Each project has its own repository containing full research documentation as well as code sources for the advanced work I completed. Please see the links below for my published research. The purpose of this repository is to showcase my abilities in the area of computational science with an emphasis on artificial intelligence, my chosen field of study.
 
