@@ -2,11 +2,24 @@
 
 
 
-<img align="left" alt="Shaun Pritchard Computer Scientist" width="80px" src="https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/master/Protfolio-imgs/ShaunP-bw-150.png?raw=true" />
+<img align="left" width="80px" src="https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/master/portfolio-imgs/ShaunP-bw.png" />
 
 
-### Developer: Shaun Pritchard
-This portfolio is a unique approach that I've not seen very many others do, at least to this extent? I will be listing project developments and much more.  Also, I will be hosting the academic coursework, classes, proofs, scientific work, and postulates I have taken, worked on, and completed at my university.  I will also host my course work takes from virtual correspondence courses online. I hope to show the comprehension and diversity of my skill sets and knowledge base. While openly making my work available for others to engage and interact. I will be using a tree traversal categorization.
+### Full Stack Developer / A.I Data Scientist: Shaun Pritchard
+In my experience, this is a very unique approach that I haven't seen many others use, at least to this extent. 
+
+The portfolio contains all of my programming, math, and science accomplishments including code projects, database architecture, published research, graphic design, video production, AI models, and implementations involving my skills in full-stack development, data science, artificial intelligence, and machine learning engineering. 
+
+GitHub is a great place for professionals to showcase their work, but I want to do something more unique and go beyond just generating a static website with basic links to my projects. I wanted to build an interactive environment to showcase my work.
+
+My interactive development and data science lab uses a SPA with custom APIs that I developed that connects to my development servers, pipelines, and distributed network across K8 clusters. 
+
+To showcase my understanding and diversity of my skill sets and knowledge base, I also wanted to host my coursework thesis while openly making my work available for others to engage and interact with. 
+
+***Please visit my interactive web application portfolio here:*** 
+
+[**My Interactive Portfolio**](https://shaunpritchard.net)
+
 <hr>
 
 
@@ -29,6 +42,7 @@ These are the topics of proficiency utilizing my relevant experience, technical 
 and problem solving skills through academic and autodidactic acomplishments.
 
 - [x] Computer Science
+- [x] Artificail Intellgence
 - [x] Electrical Engineering
 - [x] Data Science
 - [x] Machine Learning
@@ -183,10 +197,10 @@ and problem solving skills through academic and autodidactic acomplishments.
 
 
 <!-- dictonaries-->
-[website]: https://webreactor.us
-[twitter]: https://twitter.com/SimpleStupid0
+[website]: https://shaunpritchard.net
+[twitter]: https://twitter.com/ShaunPx1
 [youtube]: https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw/
-[instagram]: https://www.instagram.com/shaun.pritchard1/
+[instagram]: https://www.instagram.com/ShaunPx1/
 [linkedin]: https://www.linkedin.com/in/shaunpritchard1/
 [facebook]: https://www.facebook.com/shaunpritchardlive
 
