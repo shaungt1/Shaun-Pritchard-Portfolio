@@ -1,10 +1,10 @@
 # Welcome to the Design Section
 
->  In this section I'll be hosting my graphic, web, and video design projects, VFX, animations, Code based graphics and physics engines (Three.js, Animie.js, etc..) and other artwork that I have designed, built, or have drawn over the years. I started out as a graphic designer what's an associate's degree from Tampa Technical Institute. I have helped created popular brand logos for many businesses including Enterprise companies. Being creative is just something I love to do and I'd like to highlight my abilities here in my portfolio.
+>  Using this section, I will showcase my graphic, web, and video design projects, VFX, animations, physics engines (Three.js, Animie.js, etc.), and other work I have made over the years. As a graphic designer, I graduated from Tampa Technical Institute with an associate's degree. Since then, I have worked on logos for many businesses, including several Enterprise companies. My portfolio highlights my abilities in being creative, which I love to do..
 
-## Design
+## My Design
 
-> I have been designing for years and love creating. These are some of my designs based in multiple technologies.
+> I have been designing for 20 years and love creating. These are some of my designs based in multiple technologies.
 
  * Graphic Design
  * Video Production & Design
@@ -36,9 +36,9 @@
 
 
 <!-- dictonaries-->
-[website]: https://webreactor.us
-[twitter]: https://twitter.com/SimpleStupid0
+[website]: https://shaunpritchard.net
+[twitter]: https://twitter.com/shaunPx1
 [youtube]: https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw/
-[instagram]: https://www.instagram.com/shaun.pritchard1/
+[instagram]: https://www.instagram.com/shaunPx1/
 [linkedin]: https://www.linkedin.com/in/shaunpritchard1/
 [facebook]: https://www.facebook.com/shaunpritchardlive
