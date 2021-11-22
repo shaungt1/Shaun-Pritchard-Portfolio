@@ -1,4 +1,4 @@
-# Welcome to the Design Section
+# Welcome to My Design Portfolio Section
 
 >  Using this section, I will showcase my graphic, web, and video design projects, VFX, animations, physics engines (Three.js, Animie.js, etc.), and other work I have made over the years. As a graphic designer, I graduated from Tampa Technical Institute with an associate's degree. Since then, I have worked on logos for many businesses, including several Enterprise companies. My portfolio highlights my abilities in being creative, which I love to do..
 
