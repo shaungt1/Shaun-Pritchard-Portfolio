@@ -1,8 +1,8 @@
-# Welcome to the Class (Course-Work) Section
+# **Welcome to the Class (Course-Work) Section**
 
-> The class section is a collective of my upper level under grad and grad work. I have included files, scripts, app, proofs, abstracts, and much more for employers and business partners or investors to review. Also, just to show my abilities through academia. Each folder will include sub-folders pertaining to the academic works I have completed.
+The class section is a collective of my upper level under grad and grad work. I have included files, scripts, app, proofs, abstracts, and much more for employers and business partners or investors to review. Also, just to show my abilities through academia. Each folder will include sub-folders pertaining to the academic works I have completed.
 
-## Classes
+### Classes
 
 >The Classes section gives me a way to publish my course work and highlight my achievements, proofs, problems, and understanding of specific topics. All Proofs are written to specified guild lines and methods that implement contridiction, well ordering and logical proposition principles. All papers, articles, and thesis are written in APA format. All Programs where written with VS Code, PyScripter, Jupyter Notebook, Octave, and other text editors openly available.
 
