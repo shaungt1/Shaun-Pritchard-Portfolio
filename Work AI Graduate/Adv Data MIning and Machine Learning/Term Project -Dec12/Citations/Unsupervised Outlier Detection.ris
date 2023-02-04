@@ -1,0 +1,915 @@
+TY  - JOUR
+AU  - Atkinson, A. C.
+AU  - Hawkins, D. M.
+DO  - 10.2307/2530182
+IS  - 4
+SP  - 860
+PY  - 1981
+T1  - Identification of Outliers.
+T2  - Biometrics
+VL  - 37
+ER  -
+TY  - JOUR
+AU  - Karadayı, Yıldız
+AU  - Aydin, Mehmet N.
+AU  - Öğrenci, A. Selçuk
+DO  - 10.3390/app10155191
+IS  - 15
+SP  - 5191
+PY  - 2020
+T1  - A Hybrid Deep Learning Framework for Unsupervised Anomaly Detection in Multivariate Spatio-Temporal Data
+T2  - Applied Sciences
+VL  - 10
+Y2  - 2020
+ER  -
+TY  - JOUR
+AU  - Eskin, Eleazar
+AU  - Arnold, Andrew
+AU  - Prerau, Michael
+AU  - Portnoy, Leonid
+AU  - Stolfo, Sal
+DO  - 10.1007/978-1-4615-0953-0_4
+IS  - 1
+SP  - 77
+EP  - 101
+PY  - 2002
+T1  - A Geometric Framework for Unsupervised Anomaly Detection
+T2  - Advances in Information Security
+UR  - https://link.springer.com/chapter/10.1007/978-1-4615-0953-0_4
+VL  - 1
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Garg, Shivani  
+AU  - Varshney, Mukul 
+DO  - 10.23883/ijrter.2017.3302.nebjd
+IS  - 6
+SP  - 247
+EP  - 256
+PY  - 2017
+T1  - A Comparative Review of Outlier Detection Techniques for Wireless Sensor Networks
+T2  - International Journal of Recent Trends in Engineering and Research
+VL  - 3
+Y2  - 2019
+ER  -
+TY  - JOUR
+AU  - Domingues, Rémi
+AU  - Filippone, Maurizio
+AU  - Michiardi, Pietro
+AU  - Zouaoui, Jihane
+DO  - 10.1016/j.patcog.2017.09.037
+IS  - 74
+SP  - 406
+EP  - 421
+PY  - 2018
+T1  - A comparative evaluation of outlier detection algorithms: Experiments and analyses
+T2  - Pattern Recognition
+VL  - 74
+Y2  - 2021
+ER  -
+TY  - RPRT
+AU  - Emmott, Andrew
+AU  - Das, Shubhomoy
+AU  - Dietterich, Thomas
+AU  - Fern, Alan
+AU  - Wong, Weng-Keen
+PY  - 2018
+T1  - Systematic Construction of Anomaly Detection Benchmarks from Real Data
+UR  - http://web.engr.oregonstate.edu/~tgd/publications/emmott-das-dietterich-fern-wong-systematic-construction-of-anomaly-detection-benchmarks-from-real-data-odd13.pdf
+Y2  - 2021
+ER  -
+TY  - RPRT
+AU  - Zimek, Arthur
+AU  - Campello, Ricardo
+AU  - Sander, Jörg
+PY  - 2020
+T1  - Ensembles for Unsupervised Outlier Detection: Challenges and Research Questions [Position Paper]
+UR  - https://www.kdd.org/exploration_files/V15-01-02-Zimek.pdf
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Koufakou, Anna
+AU  - Georgiopoulos, Michael
+DO  - 10.1007/s10618-009-0148-z
+IS  - 2
+SP  - 259
+EP  - 289
+PY  - 2009
+T1  - A fast outlier detection strategy for distributed high-dimensional data sets with mixed attributes
+T2  - Data Mining and Knowledge Discovery
+UR  - https://link.springer.com/article/10.1007%2Fs10618-009-0148-z
+VL  - 20
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Zemicheal, Tadesse
+AU  - Dietterich, Thomas G.
+DO  - 10.1145/3314344.3332490
+IS  - 1
+PY  - 2019
+T1  - Anomaly detection in the presence of missing values for weather data quality control
+T2  - Proceedings of the Conference on Computing & Sustainable Societies  
+UR  - http://web.engr.oregonstate.edu/~tgd/publications/zemicheal-dietterich-anomaly-detection-in-the-presence-of-missing-values-for-weather-data-quality-control-compass2019.pdf
+VL  - 1
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Xuan , Guorong 
+AU  - Zhang , Wei 
+AU  - Chai, Peiqi 
+IS  - 1
+SP  - 1
+EP  - 4
+PY  - 2001
+T1  - EM  Algorithms Of Gaussian Mixture Model And Hidden Markov Model
+T2  - IEEE
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=958974
+VL  - 1
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  -  Zong† , Bo
+AU  - Song‡ ,  Qi 
+AU  - Cho† , Daeki 
+AU  - Chen, Haifeng 
+IS  - 1
+SP  - 1
+EP  - 19
+PY  - 2018
+T1  - DEEP AUTOENCODING GAUSSIAN MIXTURE MODEL FOR UNSUPERVISED ANOMALY DETECTION
+T2  - ICLR
+VL  - 1
+ER  -
+TY  - JOUR
+AU  - Shotwell, Matthew S.
+AU  - Slate, Elizabeth H.
+DO  - 10.1214/11-ba625
+IS  - 4
+PY  - 2011
+T1  - Bayesian Outlier Detection with Dirichlet Process Mixtures
+T2  - Bayesian Analysis
+VL  - 6
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Zheng, Zhigao
+AU  - Jeong, Hwa-Young
+AU  - Huang, Tao
+AU  - Shu, Jiangbo
+DO  - 10.1007/s11042-016-3681-y
+IS  - 17
+SP  - 18027
+EP  - 18045
+PY  - 2016
+T1  - KDE based outlier detection on distributed data streams in multimedia network
+T2  - Multimedia Tools and Applications
+UR  - https://link.springer.com/article/10.1007/s11042-016-3681-y
+VL  - 76
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Hautamaki, V.
+AU  - Karkkainen, I.
+AU  - Franti, P.
+DO  - 10.1109/icpr.2004.1334558
+IS  - 17
+PY  - 2004
+T1  - Outlier detection using k-nearest neighbour graph
+T2  - Proceedings of the 17th International Conference on Pattern Recognition, 2004. ICPR 2004.
+UR  - https://ieeexplore.ieee.org/document/1334558
+VL  - 17
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Kriegel, Hans-Peter
+AU  - Kröger, Peer
+AU  - Schubert, Erich
+AU  - Zimek, Arthur
+DO  - 10.1145/1645953.1646195
+IS  - 1
+PY  - 2009
+SN  - 9781605585123
+T1  - LoOP
+T2  - Proceeding of the 18th ACM conference on Information and knowledge management - CIKM '09
+VL  - 1
+ER  -
+TY  - ELEC
+AU  - Chang, Thomas
+AU  - Tolooshams, Bahareh
+AU  - Ba, Demba
+PY  - 2019
+T1  - RandNet: deep learning with compressed measurements of images
+T2  - arXiv.org
+UR  - https://arxiv.org/abs/1908.09258
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Chen, Jinghui
+AU  - Sathe, Saket
+AU  - Aggarwal, Charu
+AU  - Turaga, Deepak
+DO  - 10.1137/1.9781611974973.11
+IS  - 1
+SP  - 90
+EP  - 98
+PY  - 2017
+T1  - Outlier Detection with Autoencoder Ensembles
+T2  - Proceedings of the 2017 SIAM International Conference on Data Mining
+VL  - 1
+ER  -
+TY  - RPRT
+AU  - Zimek, Arthur
+AU  - Campello, Ricardo
+AU  - Sander, Jörg
+PY  - 2015
+T1  - Ensembles for Unsupervised Outlier Detection: Challenges and Research Questions [Position Paper]
+UR  - https://www.kdd.org/exploration_files/V15-01-02-Zimek.pdf
+ER  -
+TY  - JOUR
+AU  - Glodek, Michael
+AU  - Schels, Martin
+AU  - Schwenker, Friedhelm
+DO  - 10.1007/s00180-012-0374-5
+IS  - 1
+SP  - 127
+EP  - 138
+PY  - 2012
+T1  - Ensemble Gaussian mixture models for probability density estimation
+T2  - Computational Statistics
+VL  - 28
+Y2  - 2021
+ER  -
+TY  - RPRT
+AU  - Zhao, Yue
+AU  - Hryniewicki, Maciej
+PY  - 2018
+T1  - XGBOD: Improving Supervised Outlier Detection with Unsupervised Representation Learning
+UR  - https://arxiv.org/ftp/arxiv/papers/1912/1912.00290.pdf
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Dutta, Jayanta K.
+AU  - Banerjee, Bonny
+AU  - Reddy, Chandan K.
+DO  - 10.1109/tkde.2015.2475748
+IS  - 2
+SP  - 483
+EP  - 495
+PY  - 2016
+T1  - RODS: Rarity based Outlier Detection in a Sparse Coding Framework
+T2  - IEEE Transactions on Knowledge and Data Engineering
+UR  - https://ieeexplore.ieee.org/document/7236895
+VL  - 28
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Pevný, Tomáš
+DO  - 10.1007/s10994-015-5521-0
+IS  - 2
+SP  - 275
+EP  - 304
+PY  - 2015
+T1  - Loda: Lightweight on-line detector of anomalies
+T2  - Machine Learning
+UR  - https://link.springer.com/article/10.1007%2Fs10994-015-5521-0
+VL  - 102
+Y2  - 2021
+ER  -
+TY  - ELEC
+AU  - Dutta, Jayanta K
+AU  - Banerjee, Bonny
+AU  - Reddy, Chandan K
+PB  - Institute of Electrical and Electronics Engineers
+PY  - 2015
+T1  - RODS: Rarity based Outlier Detection in a Sparse Coding Framework
+T2  - ResearchGate
+UR  - https://www.researchgate.net/publication/282420855_RODS_Rarity_based_Outlier_Detection_in_a_Sparse_Coding_Framework
+Y2  - 2021
+ER  -
+TY  - RPRT
+AU  - Van Stein, Bas
+AU  - Van Leeuwen, Matthijs
+AU  - Bäck, Thomas
+PY  - 2018
+T1  - Local Subspace-Based Outlier Detection using Global Neighbourhoods
+UR  - https://arxiv.org/pdf/1611.00183.pdf
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Ghoting, A.
+AU  - Otey, M.E.
+AU  - Parthasarathy, S.
+DO  - 10.1109/icdm.2004.10011
+IS  - 1
+PY  - 2021
+T1  - LOADED: Link-Based Outlier and Anomaly Detection in Evolving Data Sets
+T2  - Fourth IEEE International Conference on Data Mining (ICDM'04)
+UR  - https://ieeexplore.ieee.org/document/1410317
+VL  - 1
+Y2  - 2021
+ER  -
+TY  - ELEC
+AU  - Ke Zhang
+AU  - Jin, Huidong
+PB  - unknown
+PY  - 2010
+T1  - An Effective Pattern Based Outlier Detection Approach for Mixed Attribute Data
+T2  - ResearchGate
+UR  - https://www.researchgate.net/publication/225104319_An_Effective_Pattern_Based_Outlier_Detection_Approach_for_Mixed_Attribute_Data
+Y2  - 2021
+ER  -
+TY  - ELEC
+AU  - Ke Zhang
+AU  - Jin, Huidong
+PB  - unknown
+PY  - 2010
+T1  - An Effective Pattern Based Outlier Detection Approach for Mixed Attribute Data
+T2  - ResearchGate
+UR  - https://www.researchgate.net/publication/225104319_An_Effective_Pattern_Based_Outlier_Detection_Approach_for_Mixed_Attribute_Data
+Y2  - 2021
+ER  -
+TY  - RPRT
+AU  - Carvalho Nunes, Eduardo
+PY  - 2021
+T1  - Anomalous Sound Detection with Machine Learning: A Systematic Review
+UR  - https://arxiv.org/pdf/2102.07820.pdf
+Y2  - 2021
+ER  -
+TY  - RPRT
+AU  - Siddiqui, Amran
+AU  - Stokes, Jack
+AU  - Seifert, Christian
+AU  - Argyle, Evan
+AU  - Mccann, Robert
+AU  - Neil, Joshua
+AU  - Carroll, Justin
+PY  - 2020
+T1  - DETECTING CYBER ATTACKS USING ANOMALY DETECTION WITH EXPLANATIONS AND EXPERT FEEDBACK
+UR  - https://www.microsoft.com/en-us/research/uploads/prod/2019/06/ADwithGraderFeedback.pdf
+Y2  - 2021
+ER  -
+TY  - ELEC
+AU  - Do, Kien
+AU  - Tran, Truyen
+AU  - Phung, Dinh
+AU  - Venkatesh, Svetha
+PY  - 2016
+T1  - Outlier Detection on Mixed-Type Data: An Energy-based Approach
+T2  - arXiv.org
+UR  - https://arxiv.org/abs/1608.04830
+Y2  - 2021
+ER  -
+TY  - ELEC
+AU  - Parmar, Jitendra
+AU  - Chouhan, Satyendra Singh
+AU  - Rathore, Santosh Singh
+PY  - 2021
+T1  - Open-world Machine Learning: Applications, Challenges, and Opportunities
+T2  - arXiv.org
+UR  - https://arxiv.org/abs/2105.13448
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Chandola, V.
+AU  - Banerjee, A.
+AU  - Kumar, V.
+DO  - 10.1109/tkde.2010.235
+IS  - 5
+SP  - 823
+EP  - 839
+PY  - 2012
+T1  - Anomaly Detection for Discrete Sequences: A Survey
+T2  - IEEE Transactions on Knowledge and Data Engineering
+VL  - 24
+Y2  - 2020
+ER  -
+TY  - ELEC
+AU  - Hendrycks, Dan
+AU  - Mazeika, Mantas
+AU  - Dietterich, Thomas
+PY  - 2018
+T1  - Deep Anomaly Detection with Outlier Exposure
+T2  - arXiv.org
+UR  - https://arxiv.org/abs/1812.04606
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Akoglu, Leman
+AU  - Tong, Hanghang
+AU  - Koutra, Danai
+DO  - 10.1007/s10618-014-0365-y
+IS  - 3
+SP  - 626
+EP  - 688
+PY  - 2014
+T1  - Graph based anomaly detection and description: a survey
+T2  - Data Mining and Knowledge Discovery
+UR  - https://arxiv.org/pdf/1404.4679.pdf
+VL  - 29
+Y2  - 2019
+ER  -
+TY  - JOUR
+AU  - Pang, Guansong
+AU  - Shen, Chunhua
+AU  - Cao, Longbing
+AU  - Hengel, Anton Van Den
+DO  - 10.1145/3439950
+IS  - 2
+SP  - 1
+EP  - 38
+PY  - 2021
+T1  - Deep Learning for Anomaly Detection
+T2  - ACM Computing Surveys
+VL  - 54
+ER  -
+TY  - RPRT
+AU  - Braei, Mohammad
+AU  - Wagner, Dr.-Ing
+PY  - 2020
+T1  - ANOMALY DETECTION IN UNIVARIATE TIME-SERIES: A SURVEY ON THE STATE-OF-THE-ART
+UR  - https://arxiv.org/pdf/2004.00433.pdf
+Y2  - 2021
+ER  -
+TY  - RPRT
+AU  - Braei, Mohammad
+AU  - Wagner, Dr.-Ing
+PY  - 2020
+T1  - ANOMALY DETECTION IN UNIVARIATE TIME-SERIES: A SURVEY ON THE STATE-OF-THE-ART
+UR  - https://arxiv.org/pdf/2004.00433.pdf
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Pang, Guansong
+AU  - Shen, Chunhua
+AU  - Cao, Longbing
+AU  - Hengel, Anton Van Den
+DO  - 10.1145/3439950
+IS  - 2
+SP  - 1
+EP  - 38
+PY  - 2021
+T1  - Deep Learning for Anomaly Detection
+T2  - ACM Computing Surveys
+VL  - 54
+ER  -
+TY  - RPRT
+AU  - Zimek, Arthur
+AU  - Campello, Ricardo
+AU  - Sander, Jörg
+PB  - SIGKDD Explorations 
+PY  - 2020
+T1  - Ensembles for Unsupervised Outlier Detection: Challenges and Research Questions [Position Paper]
+UR  - https://www.kdd.org/exploration_files/V15-01-02-Zimek.pdf
+ER  -
+TY  - JOUR
+AU  - Jayanthi, N
+AU  - Burra, Dr
+AU  - Babu, Vijaya
+AU  - Rao, Sambasiva
+IS  - 4
+SP  - 2020
+PY  - 2020
+T1  - An Ensemble Framework Based Outlier Detection System in High Dimensional Data
+T2  - European Journal of Molecular & Clinical Medicine
+UR  - https://ejmcm.com/article_1813_a697785bac6d1dd6213559539a2d066b.pdf
+VL  - 7
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Campos, Guilherme O.
+AU  - Zimek, Arthur
+AU  - Meira, Wagner
+DO  - 10.1007/978-3-319-93034-3_45
+IS  - 1
+SP  - 564
+EP  - 576
+PY  - 2018
+T1  - An Unsupervised Boosting Strategy for Outlier Detection Ensembles
+T2  - Advances in Knowledge Discovery and Data Mining
+UR  - https://link.springer.com/chapter/10.1007/978-3-319-93034-3_45
+VL  - 3
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Cheng, Zhen
+AU  - Zhu, En
+AU  - Wang, Siqi
+AU  - Zhang, Pei
+AU  - Li, Wang
+DO  - 10.1109/access.2021.3065838
+IS  - 1
+SP  - 43991
+EP  - 44002
+PY  - 2021
+T1  - Unsupervised Outlier Detection via Transformation Invariant Autoencoder
+T2  - IEEE Access
+UR  - https://ieeexplore.ieee.org/abstract/document/9376856
+VL  - 9
+Y2  - 2021
+ER  -
+TY  - ELEC
+AU  - KDD 2015 Organisers
+PY  - 2016
+T1  - Outlier and Anomaly Detection
+T2  - Kdd.org
+UR  - https://www.kdd.org/kdd2016/topics/view/outlier-and-anomaly-detection
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Iftikhar, Nadeem
+AU  - Baattrup-Andersen, Thorkil
+AU  - Nordbjerg, Finn Ebertsen
+AU  - Jeppesen, Karsten
+DO  - 10.1016/j.procs.2020.09.112
+IS  - 1
+SP  - 1160
+EP  - 1169
+PY  - 2020
+T1  - Outlier Detection in Sensor Data using Ensemble Learning
+T2  - Procedia Computer Science
+UR  - https://reader.elsevier.com/reader/sd/pii/S1877050920320123?token=93E31B93E02184AB9A31F0E938843B4E91D05ED378E58A205788E81019D7DC7B0F3F4F1F158ACE40FC76FFBA7EDF0239&originRegion=eu-west-1&originCreation=20211207214835
+VL  - 176
+Y2  - 2021
+ER  -
+TY  - ELEC
+AU  - Braei, Mohammad
+AU  - Wagner, Sebastian
+PY  - 2020
+T1  - Anomaly Detection in Univariate Time-series: A Survey on the State-of-the-Art
+T2  - arXiv.org
+UR  - https://arxiv.org/abs/2004.00433
+Y2  - 2021
+ER  -
+TY  - ELEC
+AU  - Limarc Ambalina
+PY  - 2020
+T1  - MIDAS: A State-of-the-Art Model for Anomaly Detection in Graphs
+T2  - Hackernoon.com
+UR  - https://hackernoon.com/midas-a-state-of-the-art-model-for-anomaly-detection-in-graphs-6s8o3u07
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Chiang, Alvin
+AU  - Yeh, Yi-Ren
+DO  - 10.1109/wi-iat.2015.260
+IS  - 1
+PY  - 2015
+T1  - Anomaly Detection Ensembles: In Defense of the Average
+T2  - 2015 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)
+UR  - https://ieeexplore.ieee.org/document/7397458
+VL  - 1
+Y2  - 2021
+ER  -
+TY  - RPRT
+AU  - Emmott, Andrew
+AU  - Das, Shubhomoy
+AU  - Dietterich, Thomas
+AU  - Fern, Alan
+AU  - Wong, Weng-Keen
+PY  - 2019
+T1  - Systematic Construction of Anomaly Detection Benchmarks from Real Data
+UR  - http://web.engr.oregonstate.edu/~tgd/publications/emmott-das-dietterich-fern-wong-systematic-construction-of-anomaly-detection-benchmarks-from-real-data-odd13.pdf
+ER  -
+TY  - RPRT
+AU  - Chen, Jinghui
+AU  - Sathe, Saket
+AU  - Aggarwal, Charu
+AU  - Turaga, Deepak
+PY  - 2020
+T1  - Outlier Detection with Autoencoder Ensembles
+UR  - https://saketsathe.net/downloads/autoencode.pdf
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Chen, Jinghui
+AU  - Sathe, Saket
+AU  - Aggarwal, Charu
+AU  - Turaga, Deepak
+DO  - 10.1137/1.9781611974973.11
+IS  - 1
+SP  - 90
+EP  - 98
+PY  - 2017
+T1  - Outlier Detection with Autoencoder Ensembles
+T2  - Proceedings of the 2017 SIAM International Conference on Data Mining
+VL  - 174
+ER  -
+TY  - ELEC
+AU  -  Limarc Ambalina
+PY  - 2020
+T1  - Introducing MIDAS: A New Baseline for Anomaly Detection in Graphs - KDnuggets
+T2  - KDnuggets
+UR  - https://www.kdnuggets.com/2020/04/midas-new-baseline-anomaly-detection-graphs.html
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Koizumi, Yuma
+AU  - Saito, Shoichiro
+AU  - Uematsu, Hisashi
+AU  - Kawachi, Yuta
+AU  - Harada, Noboru
+DO  - 10.1109/taslp.2018.2877258
+IS  - 1
+SP  - 212
+EP  - 224
+PY  - 2019
+T1  - Unsupervised Detection of Anomalous Sound Based on Deep Learning and the Neyman–Pearson Lemma
+T2  - IEEE/ACM Transactions on Audio, Speech, and Language Processing
+UR  - https://arxiv.org/pdf/1810.09133.pdf
+VL  - 27
+ER  -
+TY  - RPRT
+AU  - Chang, Thomas
+AU  - Tolooshams, Bahareh
+AU  - Ba, Demba
+PB  - School of Engineering and Applied Sciences, Harvard University
+SP  - 1
+EP  - 6
+PP  - Cambridge, MA
+PY  - 2019
+T1  - RANDNET: DEEP LEARNING WITH COMPRESSED MEASUREMENTS OF IMAGES
+UR  - https://arxiv.org/pdf/1908.09258.pdf
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Keller, Fabian
+AU  - Muller, Emmanuel
+AU  - Bohm, Klemens
+DO  - 10.1109/icde.2012.88
+IS  - 1
+PY  - 2012
+T1  - HiCS: High Contrast Subspaces for Density-Based Outlier Ranking
+T2  - 2012 IEEE 28th International Conference on Data Engineering
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6228154
+VL  - 28
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Dutta, Jayanta K.
+AU  - Banerjee, Bonny
+AU  - Reddy, Chandan K.
+DO  - 10.1109/tkde.2015.2475748
+IS  - 2
+SP  - 483
+EP  - 495
+PY  - 2016
+T1  - RODS: Rarity based Outlier Detection in a Sparse Coding Framework
+T2  - IEEE Transactions on Knowledge and Data Engineering
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7236895
+VL  - 28
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Muller, Emmanuel
+AU  - Assent, Ira
+AU  - Steinhausen, Uwe
+AU  - Seidl, Thomas
+DO  - 10.1109/icdew.2008.4498387
+IS  - 1
+PY  - 2008
+T1  - OutRank: ranking outliers in high dimensional data
+T2  - 2008 IEEE 24th International Conference on Data Engineering Workshop
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4498387
+VL  - 24
+Y2  - 2021
+ER  -
+TY  - ELEC
+AU  - T. Pevný
+PB  - &nbsp;
+PY  - 2015
+T1  - Loda: Lightweight on-line detector of anomalies
+T2  - undefined
+UR  - https://www.semanticscholar.org/paper/Loda%3A-Lightweight-on-line-detector-of-anomalies-Pevn%C3%BD/ca56df64a351f873c8c138874326a6f64eec011d
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Agrawal, Ankur
+DO  - 10.1007/978-3-642-03547-0_15
+IS  - 1
+SP  - 149
+EP  - 157
+PY  - 2009
+T1  - Local Subspace Based Outlier Detection
+T2  - Communications in Computer and Information Science
+UR  - https://link.springer.com/chapter/10.1007/978-3-642-03547-0_15
+VL  - 1
+Y2  - 2021
+ER  -
+TY  - RPRT
+AU  - Salehi, Mohammadreza
+AU  - Mirzaei, Hossein
+AU  - Hendrycks, Dan
+AU  - Li, Yixuan
+AU  - Hossein Rohban, Mohammad
+AU  - Sabokrou, Mohammad
+PY  - 2018
+T1  - A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges
+UR  - https://arxiv.org/pdf/2110.14051.pdf
+ER  -
+TY  - JOUR
+AU  - Muller, Emmanuel
+AU  - Assent, Ira
+AU  - Steinhausen, Uwe
+AU  - Seidl, Thomas
+DO  - 10.1109/icdew.2008.4498387
+IS  - 1
+PY  - 2008
+T1  - OutRank: ranking outliers in high dimensional data
+T2  - 2008 IEEE 24th International Conference on Data Engineering Workshop
+UR  - https://ieeexplore.ieee.org/document/4498387
+VL  - 24
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Zhao, Zhiyang
+AU  - Zhang, Yang
+AU  - Zhu, XianXun
+AU  - Zuo, Jiancun
+DO  - 10.1109/iaeac47372.2019.8997819
+IS  - 1
+PY  - 2019
+T1  - Research on Time Series Anomaly Detection Algorithm and Application
+T2  - 2019 IEEE 4th Advanced Information Technology, Electronic and Automation Control Conference (IAEAC)
+UR  - https://ieeexplore.ieee.org/document/8997819
+VL  - 4
+Y2  - 2021
+ER  -
+TY  - RPRT
+AU  - Zimek, Arthur
+AU  - Campello, Ricardo
+AU  - Sander, Jörg
+PY  - 2019
+T1  - Ensembles for Unsupervised Outlier Detection: Challenges and Research Questions [Position Paper]
+UR  - https://www.kdd.org/exploration_files/V15-01-02-Zimek.pdf
+ER  -
+TY  - ELEC
+AU  - Chippada Nagamani
+AU  - Suneetha Chittineni
+PB  - Lavoisier
+PY  - 2019
+T1  - Efficient Neighborhood Density Based Outlier Detection Inside a Sub Network with High Dimensional Data
+T2  - ResearchGate
+UR  - https://www.researchgate.net/publication/334516974_Efficient_Neighborhood_Density_Based_Outlier_Detection_Inside_a_Sub_Network_with_High_Dimensional_Data
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Thudumu, Srikanth
+AU  - Branch, Philip
+AU  - Jin, Jiong
+AU  - Singh, Jugdutt (Jack)
+DO  - 10.1186/s40537-020-00320-x
+IS  - 1
+PY  - 2020
+T1  - A comprehensive survey of anomaly detection techniques for high dimensional big data
+T2  - Journal of Big Data
+UR  - https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00320-x
+VL  - 7
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Guorong Xuan
+AU  - Wei Zhang
+AU  - Peiqi Chai
+DO  - 10.1109/icip.2001.958974
+IS  - 1
+PY  - 2021
+T1  - EM algorithms of Gaussian mixture model and hidden Markov model
+T2  - Proceedings 2001 International Conference on Image Processing (Cat. No.01CH37205)
+UR  - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=958974
+VL  - 1
+Y2  - 2021
+ER  -
+TY  - ELEC
+AU  - Prakhar Mishra
+PB  - Towards Data Science
+PY  - 2021
+T1  - 5 Outlier Detection Techniques that every “Data Enthusiast” Must Know
+T2  - Medium
+UR  - https://towardsdatascience.com/5-outlier-detection-methods-that-every-data-enthusiast-must-know-f917bf439210
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Pauwels, Eric J.
+AU  - Ambekar, Onkar
+DO  - 10.1007/978-3-642-23184-1_3
+IS  - 1
+SP  - 25
+EP  - 39
+PY  - 2011
+T1  - One Class Classification for Anomaly Detection: Support Vector Data Description Revisited
+T2  - Advances in Data Mining. Applications and Theoretical Aspects
+UR  - https://link.springer.com/chapter/10.1007/978-3-642-23184-1_3#:~:text=The%20Support%20Vector%20Data%20Description,governed%20by%20a%20slack%20variable.
+VL  - 1
+Y2  - 2021
+ER  -
+TY  - ELEC
+AU  - Kriegel, Hans-Peter 
+AU  - Kröger, Peer 
+AU  - Schubert, Erich 
+AU  - Zimek, Arthur 
+PY  - 2021
+T1  - LoOP | Proceedings of the 18th ACM conference on Information and knowledge management
+T2  - Acm.org
+UR  - https://dl.acm.org/doi/10.1145/1645953.1646195
+Y2  - 2021
+ER  -
+TY  - RPRT
+AU  - Sarvari, Hamed
+AU  - Domeniconi, Carlotta
+AU  - Prenkaj, Bardh
+AU  - Stilo, Giovanni
+PY  - 2019
+T1  - Unsupervised Boosting-based Autoencoder Ensembles for Outlier Detection
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Bhatia, Siddharth
+AU  - Hooi, Bryan
+AU  - Yoon, Minji
+AU  - Shin, Kijung
+AU  - Faloutsos, Christos
+DO  - 10.1609/aaai.v34i04.5724
+IS  - 04
+SP  - 3242
+EP  - 3249
+PY  - 2020
+T1  - Midas: Microcluster-Based Detector of Anomalies in Edge Streams
+T2  - Proceedings of the AAAI Conference on Artificial Intelligence
+VL  - 34
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Tien, Chin-Wei
+AU  - Huang, Tse-Yung
+AU  - Chen, Ping-Chun
+AU  - Wang, Jenq-Haur
+DO  - 10.3390/computers10070088
+IS  - 7
+SP  - 88
+PY  - 2021
+T1  - Using Autoencoders for Anomaly Detection and Transfer Learning in IoT
+T2  - Computers
+VL  - 10
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Papastefanopoulos, Vasilis
+AU  - Linardatos, Pantelis
+AU  - Kotsiantis, Sotiris
+DO  - 10.3390/electronics10182236
+IS  - 18
+SP  - 2236
+PY  - 2021
+T1  - Unsupervised Outlier Detection: A Meta-Learning Algorithm Based on Feature Selection
+T2  - Electronics
+VL  - 10
+Y2  - 2021
+ER  -
+TY  - RPRT
+AU  - Guha, Sudipto
+AU  - Mishra, Nina
+AU  - Roy, Gourav
+AU  - Schrijvers, Okke
+PY  - 2020
+T1  - Robust Random Cut Forest Based Anomaly Detection On Streams
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Kriegel, Hans-Peter 
+AU  - Schubert, Matthias
+AU  - Zimek, Arthur
+IS  - 1
+SP  - 1
+EP  - 9
+PY  - 2018
+T1  - Angle-Based Outlier Detection in High-dimensional Data
+T2  - Ludwig-Maximilians-Universität München
+VL  - 1
+ER  -
+TY  - JOUR
+AU  - Kim, Jooseuk
+AU  - Scott, Clayton
+IS  - 13
+SP  - 2529
+EP  - 2565
+PY  - 2012
+T1  - Robust Kernel Density Estimation
+T2  - Journal of Machine Learning Research
+VL  - 13
+Y2  - 2021
+ER  -
+TY  - JOUR
+AU  - Demestichas, Konstantinos
+AU  - Alexakis, Theodoros
+AU  - Peppes, Nikolaos
+AU  - Adamopoulou, Evgenia
+DO  - 10.3390/vehicles3020011
+IS  - 2
+SP  - 171
+EP  - 186
+PY  - 2021
+T1  - Comparative Analysis of Machine Learning-Based Approaches for Anomaly Detection in Vehicular Data
+T2  - Vehicles
+VL  - 3
+Y2  - 2021
+ER  -
