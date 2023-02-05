@@ -2,23 +2,23 @@
 
 
 
-<img align="left" width="80px" src="https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/master/portfolio-imgs/ShaunP-bw.png" />
+<img align="left" width="80px" src="https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/7860ab4b386d85ecf09774d7592ffe28b892d5cf/assets/ShaunP-bw.png" />
 
 
 ### Full Stack Developer / A.I Data Scientist: Shaun Pritchard
-In my experience, this is a very unique approach that I haven't seen many others use, at least to this extent. 
+In my experience, this is a very unique approach that I haven't seen many others use, at least to this extent.
 
-The portfolio contains all of my programming, math, and science accomplishments including code projects, database architecture, published research, graphic design, video production, AI models, and implementations involving my skills in full-stack development, data science, artificial intelligence, and machine learning engineering. 
+The portfolio contains all of my programming, math, and science accomplishments including code projects, database architecture, published research, graphic design, video production, AI models, and implementations involving my skills in full-stack development, data science, artificial intelligence, and machine learning engineering.
 
 GitHub is a great place for professionals to showcase their work, but I want to do something more unique and go beyond just generating a static website with basic links to my projects. I wanted to build an interactive environment to showcase my work.
 
-My interactive development and data science lab uses a SPA with custom APIs that I developed that connects to my development servers, pipelines, and distributed network across K8 clusters. 
+My interactive development and data science lab uses a SPA with custom APIs that I developed that connects to my development servers, pipelines, and distributed network across K8 clusters.
 
-To showcase my understanding and diversity of my skill sets and knowledge base, I also wanted to host my coursework thesis while openly making my work available for others to engage and interact with. 
+To showcase my understanding and diversity of my skill sets and knowledge base, I also wanted to host my coursework thesis while openly making my work available for others to engage and interact with.
 
-***Please visit my interactive web application portfolio here:*** 
+***Please visit my interactive web application portfolio here:***
 
-[**My Interactive Portfolio**](https://shaunpritchard.net)
+[**My Interactive Portfolio**](https://shaunpritchard.org)
 
 <hr>
 
@@ -54,7 +54,7 @@ and problem solving skills through academic and autodidactic acomplishments.
 
 <hr>
 
-*If you are an employer or are seeking to utilize my skill sets please contact me at: shaun@webreactor.com* 
+*If you are an employer or are seeking to utilize my skill sets please contact me at: shaun@webreactor.com*
 
 ###### [Learn more about about me here](https://github.com/shaungt1)
 
@@ -62,7 +62,7 @@ and problem solving skills through academic and autodidactic acomplishments.
 <hr>
 
 # Main Categories
-### These are the categories that will encompass my work. Within each main category, the categories for work, skillsets, and projects reside. All of these projects are based in Computer Science, Programming, Data Science, AI, Mathematics, & Quantum Computation and other related skillsets. 
+### These are the categories that will encompass my work. Within each main category, the categories for work, skillsets, and projects reside. All of these projects are based in Computer Science, Programming, Data Science, AI, Mathematics, & Quantum Computation and other related skillsets.
 
 * ## [Classes](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/classes)
 * ## [Courses](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/courses)
@@ -105,7 +105,7 @@ and problem solving skills through academic and autodidactic acomplishments.
  * Programming
  * Quantum Computers
  * Software Engineering
- 
+
  ## [Courses](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/courses)
 
 > The section will introduce all the tutorials, and courses I have built and avialble online. Courses are both contextual and video formats.
@@ -115,11 +115,11 @@ and problem solving skills through academic and autodidactic acomplishments.
  * Programming For The Web
  * Big Data
  * Software Engineering
- * Enterprise Architecture  
+ * Enterprise Architecture
  * Scripting
  * Business
- * Business Law & US Constition 
- 
+ * Business Law & US Constition
+
 ## [Projects](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/projects)
 
 > These are projects in realtion to the the fields of study above written in a varity of programming languages. Projects are open source and complete to the best of my ability.
@@ -129,8 +129,8 @@ and problem solving skills through academic and autodidactic acomplishments.
  * Custom Apps And Projects
  * Api’s
  * Ideas And Sandbox
- 
- 
+
+
 ## [Books](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/books)
 
 > Books category highlights the many books that helped me on my journey to learning the skills I sought out. I have also written a few of my own books that are non-technical.
@@ -139,28 +139,28 @@ and problem solving skills through academic and autodidactic acomplishments.
  * Books I Have Written
  * Content I Have Written
  * Favorite Books
- 
+
 ## [Apps](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/apps)
 
 > These are mobile and web based app projects I am currently working on or have completed for practiccle purpopses.
 [Visit Applications Section Here](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/apps)
 
- * Mobile Andriod Apps 
+ * Mobile Andriod Apps
  * PWA -Progresive Web Apps
  * Flutter & Dart
  * Native script
  * Angular
  * React
  * Ruby on Rails
- 
- 
- 
+
+
+
 ## [Entrepreneur & Business](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/business)
 
-> This section you can discover more about my entrepreneural and business ventures. 
+> This section you can discover more about my entrepreneural and business ventures.
 [Visit Business Section Here](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/business)
 
- * My Business 
+ * My Business
  * Professional
  * Business plans
  * Marketing
@@ -168,8 +168,8 @@ and problem solving skills through academic and autodidactic acomplishments.
  * Work
  * Project Management
  * Analysis
- 
- 
+
+
 ## [Design & Production](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/designs)
 
 > I have been designing and producing longer than I have been programming and I love creating. These are some of my  designs based in multiple technologies. That predetermined my proficiency and utilizing many different aspects of Technologies to create visual effects and user experiences
@@ -188,11 +188,11 @@ and problem solving skills through academic and autodidactic acomplishments.
  * Custom Design
  * Art Work
  * Invents
- 
+
  ---
- 
+
  ### Do you know what this is? I will do an interview for FREE if you kow, without using Google! [Email me the answer and time you want to interview here!](shaun@webreactor.us) Cheers!
- 
+
  ![GitHub Logo]( https://www.researchgate.net/profile/Andreas_Ketterer/publication/316828699/figure/fig3/AS:669404337565697@1536609839396/color-online-Bloch-sphere-representation-of-the-Bloch-vector-v-for-qubits-d-2.png)
 
 
