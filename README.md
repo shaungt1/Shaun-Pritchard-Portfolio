@@ -24,7 +24,7 @@ Welcome to my collective works and GitHub portfolio. I have compiled a portfolio
 ---
 
 ## Index
-- [Interactive Web Applciation]
+- [Interactive Web Applciation](#-Interactive)
 - [Work](#-Work)
 - [Projects](#-Projects)
 - [Professional](#-Professional)
