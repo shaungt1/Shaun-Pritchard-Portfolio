@@ -14,6 +14,26 @@
 
 ### [Shaun Pritchard - Git Showcase](https://www.gitshowcase.com/shaungt1)
 
+## Profesinal & Enterprise
+
+> The following projects are based on companies I have or am currently working for:
+
+* [Imprivata Fair Warning](https://www.imprivata.com/)
+* [Cardnal Scales](https://cardinalscale.com/)
+* [GSA](https://www.gsa.gov/)
+* [AAMC](https://www.aamc.org/)
+
+Other companies based on consultant work I can mention by name due to NDA are followed below.
+
+- Bayside Insurance
+- Cyprex
+- WellSprings Community  Church
+- ATZ Irrigation
+- Cruce Pest
+- GES Solar
+
+
+
 ## Technologies
 
 > The following are mobile and web based application projects and technologies that I am proficient in and have developed or am currently developing for practical purposes.
