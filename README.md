@@ -5,7 +5,7 @@
 <img align="left" width="80px" src="https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/7860ab4b386d85ecf09774d7592ffe28b892d5cf/assets/ShaunP-bw.png" />
 
 
-### Full Stack Developer / A.I Data Scientist: Shaun Pritchard
+### Senior Software Engineer / A.I Data Scientist: Shaun Pritchard
 In my experience, this is a very unique approach that I haven't seen many others use, at least to this extent.
 
 The portfolio contains all of my programming, math, and science accomplishments including code projects, database architecture, published research, graphic design, video production, AI models, and implementations involving my skills in full-stack development, data science, artificial intelligence, and machine learning engineering.
@@ -16,9 +16,12 @@ My interactive development and data science lab uses a SPA with custom APIs that
 
 To showcase my understanding and diversity of my skill sets and knowledge base, I also wanted to host my coursework thesis while openly making my work available for others to engage and interact with.
 
+---
 ***Please visit my interactive web application portfolio here:***
 
-[**My Interactive Portfolio**](https://shaunpritchard.org)
+[**Shaun Pritchard Portfolio Web App 2023**](https://shaunpritchard.org)
+
+```(Note: is currently down for updating 2/3/2023)```
 
 <hr>
 
@@ -37,24 +40,19 @@ To showcase my understanding and diversity of my skill sets and knowledge base, 
 <br />
 
 
-### Topics of skillsets shown:
-These are the topics of proficiency utilizing my relevant experience, technical expertise,
-and problem solving skills through academic and autodidactic acomplishments.
+<p align="center">
+<span>
+<img src="assets/shaun-portfolio-git.png" data-canonical-src="assets/shaun-portfolio-git.png" />
+</p>
 
-- [x] Computer Science
-- [x] Artificail Intellgence
-- [x] Electrical Engineering
-- [x] Data Science
-- [x] Machine Learning
-- [x] Quantum Computational Science
-- [x] Enterprise Architecture
-- [x] Data Visulization
-- [x] Programming
-- [x] Academic Research
+> If you would like to see my  open source portfolio in a much more asthetic view please vist the link below.
 
-<hr>
+###### [Shaun Pritchard Git Showcase](https://www.gitshowcase.com/shaungt1)
 
-*If you are an employer or are seeking to utilize my skill sets please contact me at: shaun@webreactor.com*
+Note: ```As of 2022-2023 I am currently contributing and working with the ChatGPT(3.5) Desktop team```
+
+
+*If you are an employer or are seeking to utilize my skill sets please contact see my resume and feel to reach out me*
 
 ###### [Learn more about about me here](https://github.com/shaungt1)
 

@@ -39,15 +39,6 @@ As my chosen field of study, artificial intelligence, this repository displays m
 
 ---
 
-<p align="center">
-<span>
-<img src="assets/shaun-portfolio-git.png" data-canonical-src="assets/shaun-portfolio-git.png" />
-</p>
-
-> Currently I am doing open source contributing  with the ChatGPT(3.5) Desktop application
-
-
-
 
 ## **Projects & Work:**
 
