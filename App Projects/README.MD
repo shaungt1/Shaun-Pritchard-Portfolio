@@ -4,7 +4,7 @@
 
 <p align="center">
 <span>
-<img src="assets/shaun-portfolio-git.png" data-canonical-src="assets/shaun-portfolio-git.png" />
+<img src="https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/6b7c18d431281cf6f94c921e9f72acc6e3b65ca9/assets/shaun-portfolio-git.png" data-canonical-src="https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/6b7c18d431281cf6f94c921e9f72acc6e3b65ca9/assets/shaun-portfolio-git.png" />
 </p>
 
 > If you would like to see my  open source portfolio in a much more asthetic view please vist the link below.
@@ -14,7 +14,7 @@
 
 ### [Shaun Pritchard - Git Showcase](https://www.gitshowcase.com/shaungt1)
 
-## Apps
+## Technologies
 
 > The following are mobile and web based application projects and technologies that I am proficient in and have developed or am currently developing for practical purposes.
 
