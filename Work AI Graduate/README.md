@@ -6,7 +6,7 @@ Shaun Pritchard: Professional Graduate, Computational Science in Artificial Inte
 <span>
 <img src="assets/fau.png" data-canonical-src="docs/fau.png" width="100" height="100" />
 
-<img src="assets/trin.png" data-canonical-src="docs/fau.png" width="100" height="100" />
+<img src="assets/trin.png" data-canonical-src="docs/fau.png" width="150" height="100" />
 </span>
 </p>
 
