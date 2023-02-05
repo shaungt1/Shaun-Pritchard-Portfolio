@@ -4,9 +4,9 @@ Shaun Pritchard: Professional Graduate, Computational Science in Artificial Inte
 
 <p align="center">
 <span>
-<img src="docs/fau.png" data-canonical-src="docs/fau.png" width="100" height="100" />
+<img src="assets/fau.png" data-canonical-src="docs/fau.png" width="100" height="100" />
 
-<img src="docs/trin.png" data-canonical-src="docs/fau.png" width="100" height="100" />
+<img src="assets/trin.png" data-canonical-src="docs/fau.png" width="100" height="100" />
 </span>
 </p>
 
