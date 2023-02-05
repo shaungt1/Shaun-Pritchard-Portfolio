@@ -2,26 +2,48 @@
 
 > This section will direct you to many of the past and current application projects I have and still am working on both  professionally, academically, and personally.
 
+<p align="center">
+<span>
+<img src="assets/shaun-portfolio-git.png" data-canonical-src="assets/shaun-portfolio-git.png" />
+</p>
+
+> If you would like to see my  open source portfolio in a much more asthetic view please vist the link below.
+
+<small> Note:```As of 2022-2023 I am currently contributing and working with the ChatGPT(3.5) Desktop Application team to bring chatGPT to (Windows,Mac, and Linux)```** </small>
+
+
+### [Shaun Pritchard - Git Showcase](https://www.gitshowcase.com/shaungt1)
+
 ## Apps
 
->These are mobile and web based app projects I am currently working on or have completed for practical purposes.
+> The following are mobile and web based application projects and technologies that I am proficient in and have developed or am currently developing for practical purposes.
 
- * Mobile Android Apps 
+ * React
+ * React Native
+ * Web3
+ * OpenZeppelin
+ * Truffle
+ * Hybrid Mobile Android Apps
  * PWA -Progressive Web Apps
  * Flutter & Dart
  * Native Script
- * Angular
- * Web Based (HTML/JS)
- * React
+ * HTML/CSS
+ * JavaScript
+ * SASS/SCSS
  * Ruby on Rails
- * Python ML
+ * Python
  * R
- * Python DL
+ * Scrapy
  * Ionic
+ * Java EE
+ * JSF
+ * Springboot
  * Phone Gap
  * MIT App Inventor
  * AR/VR
- 
+ * Angular
+
+
  ###### 📢 Conenct with me here!
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -35,8 +57,8 @@
 
 <!-- dictonaries-->
 [website]: https://webreactor.us
-[twitter]: https://twitter.com/SimpleStupid0
-[youtube]: https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw/
-[instagram]: https://www.instagram.com/shaun.pritchard1/
+[twitter]: https://twitter.com/shaunpx1
+[youtube]: https://www.youtube.com/channel/shaunpx1/
+[instagram]: https://www.instagram.com/shaunpx1/
 [linkedin]: https://www.linkedin.com/in/shaunpritchard1/
-[facebook]: https://www.facebook.com/shaunpritchardlive
+
