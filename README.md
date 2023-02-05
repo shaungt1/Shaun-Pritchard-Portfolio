@@ -17,6 +17,7 @@ My interactive development and data science lab uses a SPA with custom APIs that
 To showcase my understanding and diversity of my skill sets and knowledge base, I also wanted to host my coursework thesis while openly making my work available for others to engage and interact with.
 
 
+
 ###### 📢 Conenct with me here!
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -27,7 +28,10 @@ To showcase my understanding and diversity of my skill sets and knowledge base, 
 [<img align="left" alt="Shaun Pritchard | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
+
+
 ---
+
 ***Please visit my interactive web application portfolio here:***
 
 [**Shaun Pritchard Portfolio Web App 2023**](https://shaunpritchard.org)
@@ -51,14 +55,15 @@ To showcase my understanding and diversity of my skill sets and knowledge base, 
 
 > If you would like to see my  open source portfolio in a much more asthetic view please vist the link below.
 
-###### [Shaun Pritchard Git Showcase](https://www.gitshowcase.com/shaungt1)
+<small> Note:```As of 2022-2023 I am currently contributing and working with the ChatGPT(3.5) Desktop Application team to bring chatGPT to (Windows,Mac, and Linux)```** </small>
 
-Note: ```As of 2022-2023 I am currently contributing and working with the ChatGPT(3.5) Desktop team```
+
+### [Shaun Pritchard - Git Showcase](https://www.gitshowcase.com/shaungt1)
 
 
 *If you are an employer or are seeking to utilize my skill sets please contact see my resume and feel to reach out me*
 
-###### [Learn more about about me here](https://github.com/shaungt1)
+### [Professional Inquiries go here](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/4f22fed7d7e0711ef1f6b1ebb0c77f72b77d1702/Professional/README.md)
 
 
 <hr>
