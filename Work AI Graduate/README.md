@@ -34,6 +34,7 @@ As my chosen field of study, artificial intelligence, this repository displays m
 - [Reinforcement Learning](#-Reinforcement)
 - [Robotics Applications](#-AI)
 - [AI in Healthcare](#-Robotics)
+- [Projects & Work](#-Projects)
 - [Quick Links](#-Quick)
 
 
