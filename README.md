@@ -79,7 +79,7 @@ Note: Please check below to see if my interactive web app / dev-lab is up. I am 
 ## Professional
 
 > On the professional page, you will find a detailed work history, an updated resume, and additional information about the professional and enterprise software engineering and data engineering work I have or am currently undertaking.
-### [Link to Professional and Resume](https://www.gitshowcase.com/shaungt1)
+### [Link to Professional and Resume](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/4f22fed7d7e0711ef1f6b1ebb0c77f72b77d1702/Professional/README.md)
 
 ---
 
