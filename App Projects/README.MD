@@ -1,6 +1,6 @@
 # Welcome to my Projects
 
-> This section will direct you to many of the past and current open-source and professinal application projects I have and still am working on both  professionally, academically, and personally.
+> This section will direct you to many of the past and current open-source and enterprise application projects I have and still am working on both professionally, academically, and personally.
 
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 > The following projects are based on companies I have or am currently working for:
 
-* [Imprivata Fair Warning](https://www.imprivata.com/)
+* [Imprivata - Fair Warning](https://www.imprivata.com/)
 * [Cardnal Scales](https://cardinalscale.com/)
 * [GSA](https://www.gsa.gov/)
 * [AAMC](https://www.aamc.org/)
@@ -39,7 +39,7 @@ Other companies based on consulting work I did that can mention by name due to N
 
 ## Technologies
 
-> The following are mobile and web based application projects and technologies that I am proficient in and have developed or am currently developing for practical purposes.
+> The following are mobile and web based technologies that I am proficient in and have developed or am currently developing for practical purposes scince for past 11 years.
 
  * React
  * React Native
