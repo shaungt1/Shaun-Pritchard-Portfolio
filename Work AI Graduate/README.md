@@ -40,11 +40,13 @@ As my chosen field of study, artificial intelligence, this repository displays m
 
 ## **Projects & Work:**
 
-_ **You can view all code resources, research, and production work by clicking the following links:** _
+> **You can view all code resources, research, and production work by clicking the following links:** _
 
 - [CAP 5625 Computational Foundations of Artificial Intelligence](https://github.com/shaungt1/CAP-5625-Computational-Foundations-of-Artificial-Intelligence.git)
 
 - [CAP 6778 Advanced Data Mining and Machine Learning](https://github.com/shaungt1/CAP-6778-advanced-data-mining-and-machine-learning.git)
+
+- [CAP 6683 AI in Healthcare](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/Work%20AI%20Graduate/AI%20in%20HealthCare%20and%20Medicine)
 
 
 
