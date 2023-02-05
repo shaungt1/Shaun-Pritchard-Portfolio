@@ -1,11 +1,11 @@
 # Welcome to the Books Section
 
->Books category highlights the many books that helped me on my journey to learning the skills I sought out. I have also written a few of my own books that are non-technical.
+>.
 
  * Books I Have Written
  * Content I Have Written
  * Favorite Books
- 
+
  ###### 📢 Conenct with me here!
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

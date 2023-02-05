@@ -6,15 +6,7 @@
 
 
 ### Senior Software Engineer / A.I Data Scientist: Shaun Pritchard
-In my experience, this is a very unique approach that I haven't seen many others use, at least to this extent.
-
-The portfolio contains all of my programming, math, and science accomplishments including code projects, database architecture, published research, graphic design, video production, AI models, and implementations involving my skills in full-stack development, data science, artificial intelligence, and machine learning engineering.
-
-GitHub is a great place for professionals to showcase their work, but I want to do something more unique and go beyond just generating a static website with basic links to my projects. I wanted to build an interactive environment to showcase my work.
-
-My interactive development and data science lab uses a SPA with custom APIs that I developed that connects to my development servers, pipelines, and distributed network across K8 clusters.
-
-To showcase my understanding and diversity of my skill sets and knowledge base, I also wanted to host my coursework thesis while openly making my work available for others to engage and interact with.
+Welcome to my collective works and GitHub portfolio. I have compiled a portfolio of all of my programming, mathematics, artificial intelligence, and science accomplishments, including code projects, database architecture schemas, notebooks, published research, user experience design, video production, artificial intelligence models, and implementations that utilize my skills in full-stack development, data science and  artificial intelligence.
 
 
 
@@ -31,17 +23,45 @@ To showcase my understanding and diversity of my skill sets and knowledge base, 
 
 ---
 
+## Index
+- [Interactive Web Applciation]
+- [Work](#-Work)
+- [Projects](#-Projects)
+- [Professional](#-Professional)
+- [Research](#-Research)
+- [Design UX/UI](#-Design)
+- [Acedemic Work](#-Acedemic)
+- [Graduate Work](#-Graduate)
+
+
+----
+
+## Interactive Web Applciation
+
+GitHub is a great place for professionals to showcase their work, but I want to do something more unique and go beyond just generating a static website with basic links to my projects. I wanted to build an interactive environment to showcase my work. You can visit my interactive web application.
+
+My interactive web app is more of a pipeline and data science lab uses a SPA with custom APIs that I developed that connects to my development servers, pipelines, and distributed network across K8 clusters.
+
+To showcase my understanding and diversity of my skill sets and knowledge base, I also wanted to host my coursework thesis, research, and algorithms while openly making my work available for others to engage and interact with.
+
+Note: Please check below to see if my interactive web app / dev-lab is up. I am constantly updating and adding new code and features.
+
 ***Please visit my interactive React web application portfolio here:***
 
 > ### [Shaun Pritchard Portfolio Web App 2023](#)
 
-```(Note: is currently down for updating 2/3/2023)```
+<mark>```(Note: Web app is currently down for updating 2/3/2023)```</mark>
 
-<hr>
+----
+
+## Work
+
+*If you are an employer or are seeking to utilize my skill sets please contact see my resume and feel to reach out me*
+
+### [Professional Inquiries go here](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/4f22fed7d7e0711ef1f6b1ebb0c77f72b77d1702/Professional/README.md)
 
 
-<br />
-
+## Projects
 
 <p align="center">
 <span>
@@ -54,155 +74,53 @@ To showcase my understanding and diversity of my skill sets and knowledge base, 
 
 
 ### [Shaun Pritchard - Git Showcase](https://www.gitshowcase.com/shaungt1)
+----
+
+## Professional
+
+> On the professional page, you will find a detailed work history, an updated resume, and additional information about the professional and enterprise software engineering and data engineering work I have or am currently undertaking.
+### [Link to Professional and Resume](https://www.gitshowcase.com/shaungt1)
+
+---
+
+## Research
+> A number of studies and research projects I am currently working on are included in the research section. Also included are white papers and abstractions of ket technologies of interest to me. I would like to invite you to read the research. However, please note that, unless you wish to cite the papers, contribute to the research you should be warned this is my intellectual property. I do not permit anyone to use the work I have done as their own without written signed permission. You are welcome to contribute to any of the research or projects listed in this repository by contacting me.
+
+### [Link to my Research](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/013a4032851830f3cb2ba6199ad147fa2da81bb6/Reserach/README.md)
+
+---
+
+## Design UX/UI
+> I consider myself to be a creative individual and have been for years. Since graduating from Tampa Tech with an AA in graphic arts in 2000, I've pursued design work and educated myself on UX/UI design principles. In my opinion, they are crucial to the development of any product. The following are several of my personal Figma UX/UI designs for professional and personal projects I have contributed to and designed.
+
+### [Link to my Design Work](https://www.gitshowcase.com/shaungt1)
+---
+## Acedemic
+> The section contains a compilation of my upper-level undergraduate and freelance work. For employers and business partners, or investors to review, I have provided files, scripts, apps, proofs, and abstracts. In addition, to demonstrate my abilities through academia in relation to the professional world. My academic and credited works will be organized into sub-folders within each folder.
+### [Acedemic Work](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/7c5b928272145d75c3de649959a2938817119798/README.md)
 
 
-*If you are an employer or are seeking to utilize my skill sets please contact see my resume and feel to reach out me*
+## Graduate
 
-### [Professional Inquiries go here](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/4f22fed7d7e0711ef1f6b1ebb0c77f72b77d1702/Professional/README.md)
-
-
-<hr>
-
-# Main Categories
-### These are the categories that will encompass my work. Within each main category, the categories for work, skillsets, and projects reside. All of these projects are based in Computer Science, Programming, Data Science, AI, Mathematics, & Quantum Computation and other related skillsets.
-
-* ## [Classes](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/classes)
-* ## [Courses](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/courses)
-* ## [Projects](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/projects)
-* ## [Books](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/books)
-* ## [Apps](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/apps)
-* ## [Entrepreneur & Business](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/business)
-* ## [Design & Production](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/designs)
-<hr>
-
-## Portfolio Map of Organizational Workflow
-![Map of portfolio shaun pritchard](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/master/Protfolio-imgs/Shaun%20Pritchard%20Portfolio%20Github%20Map.png?raw=true)
-
-<hr
-
-#  Contents of Each Main Category:
-### Each category within the main class category will contian heterogeneous sub categories for particular subjects they realte to.
-
-## [Classes](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/classes)
-
->The Classes section gives me a way to publish my course work and highlight my achivments, proofs, problems, and understadning of specific topics. All Proofs are written to spcified guildines and methods that implement contridiction, well ordering and logical proposition principles. All papers, articles, and thessis are written in APA format. All Programs where written with VS Code, PyScripter, Jupyter Notbook, Octave, and other text editors openly aviable.
-[Visit Classes Section Here](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/classes)
-
- * AI (artificial Intelligence)
- * Algorithms
- * Big Data
- * Circuts
- * CV (Computer Vision)
- * Computer Sciecne
- * Data Science
- * Data Structures
- * Databases
- * Deep Learning
- * EECS
- * English
- * Human Uses Of The Environment
- * Machine Learning
- * Mathematics
- * Physics
- * Programming
- * Quantum Computers
- * Software Engineering
-
- ## [Courses](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/courses)
-
-> The section will introduce all the tutorials, and courses I have built and avialble online. Courses are both contextual and video formats.
-[Visit Courses Section Here](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/courses)
-
- * SEO
- * Programming For The Web
- * Big Data
- * Software Engineering
- * Enterprise Architecture
- * Scripting
- * Business
- * Business Law & US Constition
-
-## [Projects](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/projects)
-
-> These are projects in realtion to the the fields of study above written in a varity of programming languages. Projects are open source and complete to the best of my ability.
-[Visit Projects Section Here](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/projects)
-
- * Apps & Projects
- * Custom Apps And Projects
- * Api’s
- * Ideas And Sandbox
+> The section contains a compilation of my gradute master and Ph.D canidate work. For employers and business partners, or investors to review, I have provided files, scripts, apps, proofs, and abstracts. In addition, to demonstrate my abilities through academia in relation to the professional world. My academic and credited works will be organized into sub-folders within each folder.
+### [Graduate Work](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/8c5dee1ac6c5971458102a47ed49410aef4a8c4d/Work%20AI%20Graduate/README.md)
 
 
-## [Books](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/books)
+---
+###### 📢 Conenct with me here!
 
-> Books category highlights the many books that helped me on my journey to learning the skills I sought out. I have also written a few of my own books that are non-technical.
-[Visit Books Section Here](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/books)
-
- * Books I Have Written
- * Content I Have Written
- * Favorite Books
-
-## [Apps](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/apps)
-
-> These are mobile and web based app projects I am currently working on or have completed for practiccle purpopses.
-[Visit Applications Section Here](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/apps)
-
- * Mobile Andriod Apps
- * PWA -Progresive Web Apps
- * Flutter & Dart
- * Native script
- * Angular
- * React
- * Ruby on Rails
-
-
-
-## [Entrepreneur & Business](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/business)
-
-> This section you can discover more about my entrepreneural and business ventures.
-[Visit Business Section Here](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/business)
-
- * My Business
- * Professional
- * Business plans
- * Marketing
- * Concepts
- * Work
- * Project Management
- * Analysis
-
-
-## [Design & Production](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/designs)
-
-> I have been designing and producing longer than I have been programming and I love creating. These are some of my  designs based in multiple technologies. That predetermined my proficiency and utilizing many different aspects of Technologies to create visual effects and user experiences
-[Visit Design & Production Section Here](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/designs)
-
- * Graphic Design
- * Video Production & Design
- * VFX
- * WebGL
- * Three.js
- * Adobe PS
- * Adobe Premuire
- * Adobe After Effets
- * Physics engines
- * Web design
- * Custom Design
- * Art Work
- * Invents
-
- ---
-
- ### Do you know what this is? I will do an interview for FREE if you kow, without using Google! [Email me the answer and time you want to interview here!](shaun@webreactor.us) Cheers!
-
- ![GitHub Logo]( https://www.researchgate.net/profile/Andreas_Ketterer/publication/316828699/figure/fig3/AS:669404337565697@1536609839396/color-online-Bloch-sphere-representation-of-the-Bloch-vector-v-for-qubits-d-2.png)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Shaun Pritchard | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt=" Shaun Pritchard | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Shaun Pritchard | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Shaun Pritchard | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Shaun Pritchard | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
 <!-- dictonaries-->
-[website]: https://shaunpritchard.net
+[website]: https://shaunpritchard.org
 [twitter]: https://twitter.com/ShaunPx1
-[youtube]: https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw/
+[youtube]: https://www.youtube.com/channel/shaunpx1/
 [instagram]: https://www.instagram.com/ShaunPx1/
-[linkedin]: https://www.linkedin.com/in/shaunpritchard1/
-[facebook]: https://www.facebook.com/shaunpritchardlive
-
+[linkedin]: https://www.linkedin.com/in/shaun-pritchard/
+[facebook]: https://www.facebook.com/shaunPX1
