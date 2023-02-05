@@ -24,14 +24,14 @@ Welcome to my collective works and GitHub portfolio. I have compiled a portfolio
 ---
 
 ## Index
-- [Interactive Web Applciation](#-Interactive)
-- [Work](#-Work)
-- [Projects](#-Projects)
-- [Professional](#-Professional)
-- [Research](#-Research)
-- [Design UX/UI](#-Design)
-- [Acedemic Work](#-Acedemic)
-- [Graduate Work](#-Graduate)
+- [Interactive Web Applciation](#Interactive)
+- [Work](#Work)
+- [Projects](#Projects)
+- [Professional](#Professional)
+- [Research](#Research)
+- [Design UX/UI](#Design)
+- [Acedemic Work](#Acedemic)
+- [Graduate Work](#Graduate)
 
 
 ----
