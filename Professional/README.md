@@ -29,3 +29,21 @@ _ **Cardinal Scales , Webb City MO— Embedded Systems Software Engineer Intern 
 I was hired as part of the R&D Team responsible for refactoring proprietary software applications JAVA, C/C++, systems engineering with embedded systems and I2C protocol programs into C#. It was my responsibility to develop a .NET, C# libraries, backend, and UI used for testing sensors, scale devices and load cells used in commercial application and precision medical devices.
 
 _For professional references please contact me at_ [_shaunpritchard1@gmail.com_](mailto:shaunpritchard1@gmail.com)
+
+<hr>
+<br>
+<br>
+
+## Bonus:
+ Do you know what this is? I will do an Free job interview if you know and can explian this; without using Google! [Email me the answer and time you want to interview here!](shaun@webreactor.us) Cheers!
+
+ ![GitHub Logo]( https://www.researchgate.net/profile/Andreas_Ketterer/publication/316828699/figure/fig3/AS:669404337565697@1536609839396/color-online-Bloch-sphere-representation-of-the-Bloch-vector-v-for-qubits-d-2.png)
+
+
+<!-- dictonaries-->
+[website]: https://shaunpritchard.org
+[twitter]: https://twitter.com/ShaunPx1
+[youtube]: https://www.youtube.com/channel/shaunpx1/
+[instagram]: https://www.instagram.com/ShaunPx1/
+[linkedin]: https://www.linkedin.com/in/shaun-pritchard/
+[facebook]: https://www.facebook.com/shaunPX1

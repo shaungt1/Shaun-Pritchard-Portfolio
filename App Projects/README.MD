@@ -66,7 +66,6 @@ Other companies based on consulting work I did that can mention by name due to N
  * AR/VR
  * Angular
 
-
  ###### 📢 Conenct with me here!
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -77,11 +76,11 @@ Other companies based on consulting work I did that can mention by name due to N
 [<img align="left" alt="Shaun Pritchard | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
-
 <!-- dictonaries-->
-[website]: https://webreactor.us
-[twitter]: https://twitter.com/shaunpx1
+[website]: https://shaunpritchard.org
+[twitter]: https://twitter.com/ShaunPx1
 [youtube]: https://www.youtube.com/channel/shaunpx1/
-[instagram]: https://www.instagram.com/shaunpx1/
-[linkedin]: https://www.linkedin.com/in/shaunpritchard1/
+[instagram]: https://www.instagram.com/ShaunPx1/
+[linkedin]: https://www.linkedin.com/in/shaun-pritchard/
+[facebook]: https://www.facebook.com/shaunPX1
 
