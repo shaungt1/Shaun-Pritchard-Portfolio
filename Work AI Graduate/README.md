@@ -6,7 +6,7 @@ Shaun Pritchard: Professional Graduate, Computational Science in Artificial Inte
 <span>
 <img src="assets/fau.png" data-canonical-src="docs/fau.png" width="100" height="100" />
 
-<img src="assets/trin.png" data-canonical-src="docs/fau.png" width="150" height="100" />
+<img src="assets/trin.png" data-canonical-src="assets/fau.png" width="150" height="100" />
 </span>
 </p>
 
@@ -38,6 +38,16 @@ As my chosen field of study, artificial intelligence, this repository displays m
 - [Quick Links](#-Quick)
 
 ---
+
+<p align="center">
+<span>
+<img src="https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/6b7c18d431281cf6f94c921e9f72acc6e3b65ca9/assets/shaun-portfolio-git.png" data-canonical-src="https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/6b7c18d431281cf6f94c921e9f72acc6e3b65ca9/assets/shaun-portfolio-git.png" />
+</p>
+
+> Currently I am doing open source contributing  with the ChatGPT(3.5) Desktop application
+
+
+
 
 ## **Projects & Work:**
 
