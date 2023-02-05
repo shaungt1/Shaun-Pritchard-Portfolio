@@ -46,3 +46,4 @@ The section contains a compilation of my upper-level undergraduate and freelance
 [instagram]: https://www.instagram.com/ShaunPx1/
 [linkedin]: https://www.linkedin.com/in/shaun-pritchard/
 [facebook]: https://www.facebook.com/shaunPX1
+
