@@ -126,7 +126,7 @@ Note: Please check below to see if my interactive web app / dev-lab is up. I am 
 
  Do you know what this is? I will do an Free job interview with your company if you know and can explian this without using Google! [Email me the answer and time you want to interview here!](shaun@webreactor.us) Cheers!
 
- ![GitHub Logo]( https://www.researchgate.net/profile/Andreas_Ketterer/publication/316828699/figure/fig3/AS:669404337565697@1536609839396/color-online-Bloch-sphere-representation-of-the-Bloch-vector-v-for-qubits-d-2.png)
+ ![Somthing to do with Qauntum Programming](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/master/assets/qc.png)
 
 <!-- dictonaries-->
 [website]: https://shaunpritchard.org
