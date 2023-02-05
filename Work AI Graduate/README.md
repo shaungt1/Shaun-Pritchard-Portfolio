@@ -11,9 +11,40 @@ Shaun Pritchard: Professional Graduate, Computational Science in Artificial Inte
 </p>
 
 
-Research and work I completed for my professional advanced degree in Artificial Intelligence at Florida Atlantic University, College of Engineering and Computer Science can be found here. Each project has its own repository containing full research documentation as well as code sources for the advanced work I completed. Please see the links below for my published research. The purpose of this repository is to showcase my abilities in the area of computational science with an emphasis on artificial intelligence, my chosen field of study.
+I am pleased to welcome you to my AI graduate work section. The following repository contains resources that outline my research and work for my professional advanced degree in Artificial Intelligence at Florida Atlantic University, College of Engineering and Computer Science.
 
-## **Links:**
+In addition to the research documentation and jupyter notebooks related to each project, I have also provided code sources for the advanced work I have done.
+
+For a list of current research projects in progress or published, please see the contents below.
+As my chosen field of study, artificial intelligence, this repository displays my abilities in computational science.
+
+> All acedmiic work is 6000 to 8000 level
+
+## **Contents:**
+
+
+
+- [Adv Data MIning and Machine Learning](#-Adv)
+- [Advanced Atrifical Intellegence](#-Advanced)
+- [Advanced Data Science](#-Data)
+- [AI in Healthcare](#-AI)
+- [Computational Foundations of Artificail Intellegence](#-Computational)
+- [Computer Vision (CV)](#-Computer)
+- [Natural langauge Proccesing (NLP)](#-Natural)
+- [Reinforcement Learning](#-Reinforcement)
+- [Robotics Applications](#-AI)
+- [AI in Healthcare](#-Robotics)
+- [Quick Links](#-Quick)
+
+
+
+
+
+
+
+
+---
+## Quick Links:
 
 - **Git Portfolio:**
   - [Portfolio](https://github.com/shaungt1/Shaun-Pritchard-Portfolio)
