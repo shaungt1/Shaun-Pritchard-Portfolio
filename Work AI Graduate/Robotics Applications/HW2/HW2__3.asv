@@ -1,0 +1,45 @@
+
+clear all;clc; close all; 
+%Shaun Pritchard 
+%Problem HW2 3
+
+% map3_1=makemap(10)
+% point1 = 3.0922    3.2259
+% point2 = 3.0922    3.2259
+
+map = [ 
+ 0,0,1,1,1,1,0,0,0,0;
+ 0,0,0,0,0,0,0,0,0,0;
+ 1,0,0,1,1,0,0,0,1,0;
+ 1,1,0,0,0,0,1,0,0,1;
+ 1,0,0,1,1,0,0,1,0,0;
+ 0,0,0,1,1,0,0,1,1,0;
+ 0,1,0,0,0,0,0,0,0,0;
+ 0,1,0,0,0,1,1,1,0,0;
+ 0,1,0,0,1,1,1,0,0,0;
+ 0,0,0,0,5,0,0,0,0,0;
+];
+start = [1 1];
+goal = [10 10];
+
+ 
+goal3_1 = [100 100]; %define the goal 
+map3_1 = zeros(100); % create an array with only zeros 
+
+map3_1(20:50,1:9) = 1; % create obstacles on map 
+map3_1(30:40,10:20) = 1; % create obstacles on map
+map3_1(60:90,10:20) = 1; % create obstacles on map
+map3_1(1:9,20:60) = 1; % create obstacles on map
+map3_1(20:27,30:50) = 1; % create obstacles on map
+map3_1(40:60,30:50) = 1; % create obstacles on map
+map3_1() = 1; % create obstacles on map
+
+
+
+bug = Bug2(map3_1); % create navigation object
+bug.plot(); % Plot map
+
+p = bug.query(start, goal3_1,'animate'); % animate path
+bug.plot(p); 
+title('Bug2 Algorithm') 
+xlim([0 100]);  ylim([0 100]); 
