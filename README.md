@@ -56,7 +56,7 @@ Note: Please check below to see if my interactive web app / dev-lab is up. I am 
 
 ## Work
 
-*If you are an employer or are seeking to utilize my skill sets please contact see my resume and feel to reach out me*
+*If you are an employer or are seeking to utilize my skill sets please connect with me after viewing my resume at the link below; feel to reach out me*
 
 ### [Professional Inquiries go here](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/4f22fed7d7e0711ef1f6b1ebb0c77f72b77d1702/Professional/README.md)
 
