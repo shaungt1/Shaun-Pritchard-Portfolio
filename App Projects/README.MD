@@ -23,14 +23,16 @@
 * [GSA](https://www.gsa.gov/)
 * [AAMC](https://www.aamc.org/)
 
-Other companies based on consultant work I can mention by name due to NDA are followed below.
+Other companies based on consulting work I did that can mention by name due to NDA and legal reasons I cannot discuss other client projects.
 
 - Bayside Insurance
 - Cyprex
+- GES Solar
+- AutoTronics
 - WellSprings Community  Church
 - ATZ Irrigation
 - Cruce Pest
-- GES Solar
+
 
 
 
