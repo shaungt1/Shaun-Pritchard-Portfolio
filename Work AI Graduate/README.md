@@ -49,8 +49,11 @@ As my chosen field of study, artificial intelligence, this repository displays m
 - **Git Portfolio:**
   - [Portfolio](https://github.com/shaungt1/Shaun-Pritchard-Portfolio)
 
+<small>Currently under development 0/2/2023</small>
+
 - **Online Portfolio:**
-  - [ShaunPritchard.net](https://shaunpritchard.net/)
+
+  - [ShaunPritchard.net](https://shaunpritchard.org/)
 
 - **Publications:**
   - [Medium](https://medium.com/@shaunpritchard1)
