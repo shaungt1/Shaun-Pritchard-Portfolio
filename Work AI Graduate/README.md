@@ -40,7 +40,9 @@ As my chosen field of study, artificial intelligence, this repository displays m
 
 ## **Projects & Work:**
 
-> **You can view all code resources, research, and production work by clicking the following links:** _
+> **You can view all code resources, research, and production work by clicking the following links:**
+
+``Note: Im continuously adding links to finsh works the below projects are just a few of projects I wanted to highlight``
 
 - [CAP 5625 Computational Foundations of Artificial Intelligence](https://github.com/shaungt1/CAP-5625-Computational-Foundations-of-Artificial-Intelligence.git)
 
@@ -50,7 +52,11 @@ As my chosen field of study, artificial intelligence, this repository displays m
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oVPhbBEkH8fvGZs0K36gHhF0ULJh2mHS?usp=sharing) **Nerual Network Q-Learning GridWorld algorithm from scratch**
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oVPhbBEkH8fvGZs0K36gHhF0ULJh2mHS?usp=sharing) **Nerual Network Q-Learning GridWorld algorithm from scratch**
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1w0O23DDN45NC96UMtNuBNqbyK_s3an8m#scrollTo=pfJYEoZT0uZG) **Penalized Logistic Ridge Regression CV with Batch Gradient Decent**
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14aqwY6E19HkrBd7u-N5wYpLOvk-N2mk_?usp=sharing) **Predicitng Readmission MIMIC III data**
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TfF4Khir3Rc3jiUR_wPQosSQWn7EFKTU?usp=sharing) **NLP Content-based Recommenders from scratch**
 
 
 
