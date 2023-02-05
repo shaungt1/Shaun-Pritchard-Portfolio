@@ -93,7 +93,7 @@ Note: Please check below to see if my interactive web app / dev-lab is up. I am 
 ## Design UX/UI
 > I consider myself to be a creative individual and have been for years. Since graduating from Tampa Tech with an AA in graphic arts in 2000, I've pursued design work and educated myself on UX/UI design principles. In my opinion, they are crucial to the development of any product. The following are several of my personal Figma UX/UI designs for professional and personal projects I have contributed to and designed.
 
-### [Link to my Design Work](https://www.gitshowcase.com/shaungt1)
+### [Link to my Design Work]https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/941735e718c3002cf4d8387974949093280fee21/Design%20UX/UI/README.md)
 ---
 ## Acedemic
 > The section contains a compilation of my upper-level undergraduate and freelance work. For employers and business partners, or investors to review, I have provided files, scripts, apps, proofs, and abstracts. In addition, to demonstrate my abilities through academia in relation to the professional world. My academic and credited works will be organized into sub-folders within each folder.
