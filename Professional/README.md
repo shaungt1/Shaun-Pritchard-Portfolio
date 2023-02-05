@@ -35,9 +35,10 @@ _For professional references please contact me at_ [_shaunpritchard1@gmail.com_]
 <br>
 
 ## Bonus:
- Do you know what this is? I will do an Free job interview if you know and can explian this; without using Google! [Email me the answer and time you want to interview here!](shaun@webreactor.us) Cheers!
+ Do you know what this is? I will do an Free job interview with your company if you know and can explian this without using Google! [Email me the answer and time you want to interview here!](shaunpritchard1@gmail.com) Cheers!
 
- ![GitHub Logo]( https://www.researchgate.net/profile/Andreas_Ketterer/publication/316828699/figure/fig3/AS:669404337565697@1536609839396/color-online-Bloch-sphere-representation-of-the-Bloch-vector-v-for-qubits-d-2.png)
+ ![Somthing to do with Qauntum Programming](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/master/assets/qc.png)
+
 
 
 <!-- dictonaries-->
