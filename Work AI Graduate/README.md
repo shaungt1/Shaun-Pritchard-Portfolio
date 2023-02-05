@@ -1,9 +1,13 @@
-<h1 align="center"> 
+<h1 align="center">
 Shaun Pritchard: Professional Graduate, Computational Science in Artificial Intelligence
 </h1>
 
 <p align="center">
+<span>
 <img src="docs/fau.png" data-canonical-src="docs/fau.png" width="100" height="100" />
+
+<img src="docs/trin.png" data-canonical-src="docs/fau.png" width="100" height="100" />
+</span>
 </p>
 
 
