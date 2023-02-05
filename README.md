@@ -29,20 +29,15 @@ To showcase my understanding and diversity of my skill sets and knowledge base, 
 
 
 
-
 ---
 
-***Please visit my interactive web application portfolio here:***
+***Please visit my interactive React web application portfolio here:***
 
-[**Shaun Pritchard Portfolio Web App 2023**](https://shaunpritchard.org)
+> ### [Shaun Pritchard Portfolio Web App 2023](https://github-finder-search-app-4jcv0gp75-shaungt1.vercel.app/)
 
 ```(Note: is currently down for updating 2/3/2023)```
 
 <hr>
-
-
-
-
 
 
 <br />
