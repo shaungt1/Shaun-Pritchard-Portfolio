@@ -8,15 +8,8 @@
 <img src="https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/6b7c18d431281cf6f94c921e9f72acc6e3b65ca9/assets/shaun-portfolio-git.png" data-canonical-src="https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/6b7c18d431281cf6f94c921e9f72acc6e3b65ca9/assets/shaun-portfolio-git.png" />
 </p>
 
-## Open Source
-> If you would like to see my  open source portfolio in a much more asthetic view please vist the link below.
 
-<small> Note:```As of 2022-2023 I am currently contributing and working with the ChatGPT(3.5) Desktop Application team to bring chatGPT to (Windows,Mac, and Linux)```** </small>
-
-
-### [Shaun Pritchard - Git Showcase](https://www.gitshowcase.com/shaungt1)
-
-## Profesinal & Enterprise
+## Professional & Enterprise
 
 > The following projects are based on companies I have or am currently working for:
 
@@ -35,7 +28,13 @@ Other companies based on consulting work I did that can mention by name due to N
 - ATZ Irrigation
 - Cruce Pest
 
+## Open Source
+> If you would like to see my  open source portfolio in a much more asthetic view please vist the link below.
 
+<small> Note:```As of 2022-2023 I am currently contributing and working with the ChatGPT(3.5) Desktop Application team to bring chatGPT to (Windows,Mac, and Linux)```** </small>
+
+
+### [Shaun Pritchard - Git Showcase](https://www.gitshowcase.com/shaungt1)
 
 
 ## Technologies
