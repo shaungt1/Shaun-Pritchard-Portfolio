@@ -1,0 +1,11 @@
+Said G. Khan, Guido Herrmann, Frank L. Lewis, Tony Pipe, Chris Melhuish,
+Reinforcement learning and optimal adaptive control: An overview and implementation examples,
+Annual Reviews in Control,
+Volume 36, Issue 1,
+2012,
+Pages 42-59,
+ISSN 1367-5788,
+https://doi.org/10.1016/j.arcontrol.2012.03.004.
+(https://www.sciencedirect.com/science/article/pii/S1367578812000053)
+Abstract: This paper provides an overview of the reinforcement learning and optimal adaptive control literature and its application to robotics. Reinforcement learning is bridging the gap between traditional optimal control, adaptive control and bio-inspired learning techniques borrowed from animals. This work is highlighting some of the key techniques presented by well known researchers from the combined areas of reinforcement learning and optimal control theory. At the end, an example of an implementation of a novel model-free Q-learning based discrete optimal adaptive controller for a humanoid robot arm is presented. The controller uses a novel adaptive dynamic programming (ADP) reinforcement learning (RL) approach to develop an optimal policy on-line. The RL joint space tracking controller was implemented for two links (shoulder flexion and elbow flexion joints) of the arm of the humanoid Bristol-Elumotion-Robotic-Torso II (BERT II) torso. The constrained case (joint limits) of the RL scheme was tested for a single link (elbow flexion) of the BERT II arm by modifying the cost function to deal with the extra nonlinearity due to the joint constraints.
+Keywords: Reinforcement learning; ADP; Q-learning; Optimal adaptive control
