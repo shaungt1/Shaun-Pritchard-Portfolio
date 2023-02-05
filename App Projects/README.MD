@@ -1,12 +1,14 @@
-# Welcome to the Apps section
+# Welcome to my Projects
 
-> This section will direct you to many of the past and current application projects I have and still am working on both  professionally, academically, and personally.
+> This section will direct you to many of the past and current open-source and professinal application projects I have and still am working on both  professionally, academically, and personally.
+
 
 <p align="center">
 <span>
 <img src="https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/6b7c18d431281cf6f94c921e9f72acc6e3b65ca9/assets/shaun-portfolio-git.png" data-canonical-src="https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/6b7c18d431281cf6f94c921e9f72acc6e3b65ca9/assets/shaun-portfolio-git.png" />
 </p>
 
+## Open Source
 > If you would like to see my  open source portfolio in a much more asthetic view please vist the link below.
 
 <small> Note:```As of 2022-2023 I am currently contributing and working with the ChatGPT(3.5) Desktop Application team to bring chatGPT to (Windows,Mac, and Linux)```** </small>
