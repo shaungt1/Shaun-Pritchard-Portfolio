@@ -37,6 +37,7 @@ As my chosen field of study, artificial intelligence, this repository displays m
 - [Projects & Work](#-Projects)
 - [Quick Links](#-Quick)
 
+---
 
 ## **Projects & Work:**
 
@@ -72,7 +73,7 @@ As my chosen field of study, artificial intelligence, this repository displays m
 
 - **Online Portfolio:**
 
-  - [ShaunPritchard.net](https://shaunpritchard.org/)
+  - [ShaunPritchard.org](https://shaunpritchard.org/)
 
 - **Publications:**
   - [Medium](https://medium.com/@shaunpritchard1)
@@ -83,8 +84,8 @@ As my chosen field of study, artificial intelligence, this repository displays m
   - [Google Scholar](https://scholar.google.com/)
 
 - **Social Media:**
-  - [Youtube](https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw)
+  - [Youtube](https://www.youtube.com/shaunpx1/UC78cpbnaq-eeKGGHIEtUgdw)
   - [Twitter](https://twitter.com/ShaunPx1)
-  - [Facebook](https://www.facebook.com/shaunpritchardlive)
+  <!-- - [Facebook](https://www.facebook.com/shaunpritchardlive) -->
 
 
