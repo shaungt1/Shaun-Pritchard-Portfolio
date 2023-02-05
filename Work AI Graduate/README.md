@@ -48,7 +48,9 @@ As my chosen field of study, artificial intelligence, this repository displays m
 
 - [CAP 6683 AI in Healthcare](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/tree/master/Work%20AI%20Graduate/AI%20in%20HealthCare%20and%20Medicine)
 
-- [![Open In Colab - Nerual Network Q-Learning GridWorld ](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oVPhbBEkH8fvGZs0K36gHhF0ULJh2mHS?usp=sharing)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oVPhbBEkH8fvGZs0K36gHhF0ULJh2mHS?usp=sharing) **Nerual Network Q-Learning GridWorld algorithm from scratch**
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oVPhbBEkH8fvGZs0K36gHhF0ULJh2mHS?usp=sharing) **Nerual Network Q-Learning GridWorld algorithm from scratch**
 
 
 
