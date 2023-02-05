@@ -4,8 +4,6 @@ This section contains my professional and business ventures, work, and history i
 
 ![Shauns Portfolio](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/master/Professional/assets/shaunportfolio.png)
 
-![](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/master/Professional/assets/shaunportfolio.png)
-
 **SUMMARY**
 
 Detailed oriented, 8+ years' experience with a strong mathematics and computer science background. I am a result-driven senior level software engineer / AI data scientist. Since 2013. I have designed, developed, and managed user centric agile CI/CD production applications and enterprise products. I am proficient in implementing multiple technologies and programming languages such as React, Python and JAVA. For 5+ years I have implemented, researched, and studied AI, machine learning, predictive modeling, data processing, publishing independent research, and data mining algorithms to solve viable business challenges. I also have a range of skills in automating, testing, statistical models, algorithms design, and problem-solving.
