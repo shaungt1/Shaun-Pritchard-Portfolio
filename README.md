@@ -16,6 +16,17 @@ My interactive development and data science lab uses a SPA with custom APIs that
 
 To showcase my understanding and diversity of my skill sets and knowledge base, I also wanted to host my coursework thesis while openly making my work available for others to engage and interact with.
 
+
+###### 📢 Conenct with me here!
+
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Shaun Pritchard | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt=" Shaun Pritchard | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Shaun Pritchard | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Shaun Pritchard | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Shaun Pritchard | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+
 ---
 ***Please visit my interactive web application portfolio here:***
 
@@ -27,14 +38,7 @@ To showcase my understanding and diversity of my skill sets and knowledge base, 
 
 
 
-###### 📢 Conenct with me here!
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Shaun Pritchard | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt=" Shaun Pritchard | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Shaun Pritchard | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shaun Pritchard | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Shaun Pritchard | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
 <br />
