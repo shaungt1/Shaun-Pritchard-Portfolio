@@ -24,7 +24,7 @@ As my chosen field of study, artificial intelligence, this repository displays m
 
 
 
-- [Adv Data MIning and Machine Learning](#-Adv)
+- [Adv Data Mining and Machine Learning](#-Adv)
 - [Advanced Atrifical Intellegence](#-Advanced)
 - [Advanced Data Science](#-Data)
 - [AI in Healthcare](#-AI)
@@ -37,7 +37,13 @@ As my chosen field of study, artificial intelligence, this repository displays m
 - [Quick Links](#-Quick)
 
 
+## **Projects & Work:**
 
+_ **You can view all code resources, research, and production work by clicking the following links:** _
+
+- [CAP 5625 Computational Foundations of Artificial Intelligence](https://github.com/shaungt1/CAP-5625-Computational-Foundations-of-Artificial-Intelligence.git)
+
+- [CAP 6778 Advanced Data Mining and Machine Learning](https://github.com/shaungt1/CAP-6778-advanced-data-mining-and-machine-learning.git)
 
 
 
@@ -68,10 +74,4 @@ As my chosen field of study, artificial intelligence, this repository displays m
   - [Twitter](https://twitter.com/ShaunPx1)
   - [Facebook](https://www.facebook.com/shaunpritchardlive)
 
-## **Projects & Work:**
 
-_ **You can view all code resources, research, and all other work by clicking the following links:** _
-
-- [CAP 5625 Computational Foundations of Artificial Intelligence](https://github.com/shaungt1/CAP-5625-Computational-Foundations-of-Artificial-Intelligence.git)
-
-- [CAP 6778 Advanced Data Mining and Machine Learning](https://github.com/shaungt1/CAP-6778-advanced-data-mining-and-machine-learning.git)
