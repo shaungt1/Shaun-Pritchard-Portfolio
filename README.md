@@ -97,7 +97,7 @@ Note: Please check below to see if my interactive web app / dev-lab is up. I am 
 ---
 ## Acedemic
 > The section contains a compilation of my upper-level undergraduate and freelance work. For employers and business partners, or investors to review, I have provided files, scripts, apps, proofs, and abstracts. In addition, to demonstrate my abilities through academia in relation to the professional world. My academic and credited works will be organized into sub-folders within each folder.
-### [Acedemic Work](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/7c5b928272145d75c3de649959a2938817119798/README.md)
+### [Acedemic Work](https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/013a4032851830f3cb2ba6199ad147fa2da81bb6/Work/README.md)
 
 
 ## Graduate

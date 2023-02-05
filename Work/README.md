@@ -1,4 +1,4 @@
-# **Welcome to My Work section**
+# **Acedemic Work**
 
 The section contains a compilation of my upper-level undergraduate and freelance work. For employers and business partners, or investors to review, I have provided files, scripts, apps, proofs, and abstracts. In addition, to demonstrate my abilities through academia in relation to the professional world. My academic and credited works will be organized into sub-folders within each folder.
 
@@ -25,9 +25,9 @@ The section contains a compilation of my upper-level undergraduate and freelance
  * Programming
  * Quantum Computers
  * Software Engineering
- 
+
  ---
- 
+
  ###### 📢 Conenct with me here!
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -40,9 +40,9 @@ The section contains a compilation of my upper-level undergraduate and freelance
 
 
 <!-- dictonaries-->
-[website]: https://shaunpritchard.net
-[twitter]: https://twitter.com/shaunPx1
-[youtube]: https://www.youtube.com/channel/UC78cpbnaq-eeKGGHIEtUgdw/
-[instagram]: https://www.instagram.com/shaunPx1/
-[linkedin]: https://www.linkedin.com/in/shaunpritchard1/
-[facebook]: https://www.facebook.com/shaunpritchardlive
+[website]: https://shaunpritchard.org
+[twitter]: https://twitter.com/ShaunPx1
+[youtube]: https://www.youtube.com/channel/shaunpx1/
+[instagram]: https://www.instagram.com/ShaunPx1/
+[linkedin]: https://www.linkedin.com/in/shaun-pritchard/
+[facebook]: https://www.facebook.com/shaunPX1
