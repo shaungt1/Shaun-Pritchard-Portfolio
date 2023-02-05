@@ -41,7 +41,7 @@ As my chosen field of study, artificial intelligence, this repository displays m
 
 <p align="center">
 <span>
-<img src="https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/6b7c18d431281cf6f94c921e9f72acc6e3b65ca9/assets/shaun-portfolio-git.png" data-canonical-src="https://github.com/shaungt1/Shaun-Pritchard-Portfolio/blob/6b7c18d431281cf6f94c921e9f72acc6e3b65ca9/assets/shaun-portfolio-git.png" />
+<img src="assets/shaun-portfolio-git.png" data-canonical-src="assets/shaun-portfolio-git.png" />
 </p>
 
 > Currently I am doing open source contributing  with the ChatGPT(3.5) Desktop application
